@@ -5,7 +5,7 @@ plugins:
 
 # Optional config
 baseurl: "/egrfc-playbook"
-url: "https://samnlindsay.github.io" # Replace with your actual GitHub Pages site
+url: "https://samnlindsay.github.io/egrfc-playbook" # Replace with your actual GitHub Pages site
 
 # Enable relative links
 relative_links:
