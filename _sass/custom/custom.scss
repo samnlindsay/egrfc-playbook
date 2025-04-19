@@ -1,0 +1,45 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: "PT Sans Narrow", sans-serif;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.side-bar {
+    background-color: #202946;
+}
+
+
+.nav-list-item {
+    a {
+        color: white;
+
+        &.active {
+            color: black;
+        }
+    }
+
+    .nav-list {
+        .nav-list-item {
+            a {
+                color: white;
+                &.active {
+                    color: black !important;
+                }
+            }
+        }
+    }
+}
+
+.nav-list .nav-list-item .nav-list-link {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.site-title {
+    font-family: "PT Sans Narrow", sans-serif;
+    color: white;
+       padding: 10px;
+}

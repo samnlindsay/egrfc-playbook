@@ -1,3 +1,12 @@
-title: "EGRFC Rugby Playbook"
-theme: minima
+title: "<img src='/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
+theme: just-the-docs
 markdown: kramdown
+permalink: pretty
+
+color_scheme: custom
+
+nav_enabled: true
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
