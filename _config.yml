@@ -5,7 +5,8 @@ plugins:
 
 # Optional config
 baseurl: "" # Leave this blank if deploying to user.github.io/repo
-url: "https://samnlindsay.github.io/egrfc-playbook/" # Replace with your actual GitHub Pages site
+url: "https://samnlindsay.github.io" # Your GitHub Pages URL
+baseurl: "/egrfc-playbook" # The base URL for your project
 
 # Enable relative links
 relative_links:
