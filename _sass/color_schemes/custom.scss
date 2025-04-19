@@ -1,0 +1,28 @@
+// Custom theme setup for EGRFC Playbook
+// Replace the default Just-the-Docs theme with custom values from assets/styles.css
+
+
+@import "./color_schemes/light";
+
+$primary-color: #202946 !default; // Example primary color
+$accent-color: #7d96e8 !default; // Example accent color
+$light-color: #e5e4e7 !default; // Example light color
+$dark-color: #333333 !default; // Example dark color
+$green-color: #146f14 !default; // Example green color
+$red-color: #991515 !default; // Example red color
+
+$sidebar-color: $primary-color !default;
+// $feedback-color: $accent-color !default;
+$link-color: $accent-color !default;
+$nav-child-link-color: rgba($light-color, 0.8); // Example color for child links in the navigation
+$body-background-color: $light-color !default;
+// $body-heading-color: $grey-dk-300 !default;
+// $body-text-color: $grey-dk-100 !default;
+// $nav-child-link-color: $grey-dk-100 !default;
+// $base-button-color: #f7f7f7 !default;
+// $btn-primary-color: $purple-100 !default;
+// $code-background-color: $grey-lt-000 !default;
+// $feedback-color: darken($sidebar-color, 3%) !default;
+// $table-background-color: $white !default;
+// $search-background-color: $white !default;
+// $search-result-preview-color: $grey-dk-000 !default;
