@@ -4,8 +4,8 @@ plugins:
   - jekyll-seo-tag
 
 # Optional config
-baseurl: "" # Leave this blank if deploying to user.github.io/repo
-url: "https://samnlindsay.github.io/egrfc-playbook/" # Replace with your actual GitHub Pages site
+baseurl: "/egrfc-playbook"
+url: "https://samnlindsay.github.io" # Replace with your actual GitHub Pages site
 
 # Enable relative links
 relative_links:
