@@ -1,10 +1,10 @@
 title: "<img src='/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
 theme: just-the-docs
+remote_theme: "just-the-docs/just-the-docs@v0.4.0"
 plugins:
   - jekyll-seo-tag
 
 # Optional config
-baseurl: "" # Leave this blank if deploying to user.github.io/repo
 url: "https://samnlindsay.github.io" # Your GitHub Pages URL
 baseurl: "/egrfc-playbook" # The base URL for your project
 
