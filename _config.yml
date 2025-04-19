@@ -1,6 +1,18 @@
 title: "<img src='/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+plugins:
+  - jekyll-seo-tag
+
+# Optional config
+baseurl: "" # Leave this blank if deploying to user.github.io/repo
+url: "https://samnlindsay.github.io/egrfc-playbook/" # Replace with your actual GitHub Pages site
+
+# Enable relative links
+relative_links:
+  enabled: true
+
+# Just the Docs navigation config (optional)
+nav_sort: case_insensitive
 markdown: kramdown
 permalink: pretty
 
