@@ -1,7 +1,5 @@
 title: "<img src='/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
 theme: just-the-docs
-plugins:
-  - jekyll-seo-tag
 
 # Optional config
 baseurl: ""
@@ -21,5 +19,5 @@ color_scheme: custom
 nav_enabled: true
 heading_anchors: true
 
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"

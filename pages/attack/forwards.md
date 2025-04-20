@@ -13,7 +13,7 @@ back_to_top_text: "Back to top"
 2. "**Plus**” / “**Minus**” runners are ready to clear the next ruck or provide passing options
 3. A “**Captain of Play**” (usually a back) sits behind the pod to direct the play (a simple carry unless called otherwise)
 
-![alt text](/assets/images/pod-options.png)
+![alt text]({{ '/assets/images/pod-options.png' | relative_url }})
 
 We generally assume the **Lead** will carry into contact, but all 4 members of a pod must be prepared to receive the ball:
 - **Lead** carries into contact
@@ -24,6 +24,6 @@ We generally assume the **Lead** will carry into contact, but all 4 members of a
 ## **King** - a pod playing off 9
 
 <figure>
-    <img src="/assets/images/pod.png" style="width: 50%; height: auto;"/>
+    <img src="{{ '/assets/images/pod.png' | relative_url }}" style="width: 50%; height: auto;"/>
     <figcaption>A King pod running off 9</figcaption>
 </figure>

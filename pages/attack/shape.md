@@ -14,7 +14,7 @@ back_to_top_text: "Back to top"
 
 # 3-3-2 pattern
 
-![alt text](/assets/images/332.png)
+![alt text]({{ '/assets/images/332.png' | relative_url }})
 - Backs play to an edge (e.g. from set piece)
 - Forwards form pods:
     - 3 near the ruck
