@@ -7610,11 +7610,11 @@ div.opaque {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans Narrow", sans-serif;
+  font-family: "PT Sans Narrow", sans-serif !important;
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Lato", sans-serif !important;
 }
 
 .side-bar {
@@ -7634,14 +7634,18 @@ body {
   color: black !important;
 }
 
+.nav-list-expander, .icon {
+  color: white !important;
+}
+
 .nav-list .nav-list-item .nav-list-link {
-  font-family: "PT Sans Narrow", sans-serif;
+  font-family: "PT Sans Narrow", sans-serif !important;
   font-size: 1.5rem;
   line-height: 1.5;
 }
 
 .site-title {
-  font-family: "PT Sans Narrow", sans-serif;
+  font-family: "PT Sans Narrow", sans-serif !important;
   color: white;
   padding: 10px;
 }
