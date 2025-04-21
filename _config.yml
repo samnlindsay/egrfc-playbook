@@ -1,9 +1,9 @@
-title: "<img src='/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
+title: "<img src='/egrfc-playbook/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
 theme: just-the-docs
 
 # Optional config
-baseurl: ""
-url: "https://samnlindsay.github.io/egrfc-playbook/" # Replace with your actual GitHub Pages site
+baseurl: "/egrfc-playbook"
+url: "https://samnlindsay.github.io" # Replace with your actual GitHub Pages site
 
 # Enable relative links
 relative_links:
