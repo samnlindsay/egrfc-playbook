@@ -21,3 +21,13 @@ heading_anchors: true
 
 back_to_top: false
 back_to_top_text: "Back to top"
+
+callouts:
+  attack:
+    title: Attack
+    color: green
+  defence:
+    title: Defence
+    color: red
+  info:
+    color: blue

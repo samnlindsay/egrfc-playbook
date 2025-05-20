@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /lineout/
-title: Lineout
-parent: Set Piece
-nav_order: 2
+permalink: /lineout/defence/
+title: Defence
+parent: Lineout
+nav_order: 4
 back_to_top: true
 back_to_top_text: "Back to top"
 ---
