@@ -12,5 +12,5 @@ The playbook is divided into several sections, each focusing on different aspect
 
 <!-- Authors (with placeholder content) -->
 ## Authors
-- **Dan Poulton** - _Director of Rugby_
+- **Dan Poulton** - _Director of Rugby_ / _Head Coach_
 - **Sam Lindsay-McCall** - _Lineout Coach_

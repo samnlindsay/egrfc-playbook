@@ -1,37 +1,43 @@
 ---
 layout: default
 permalink: /lineout/calls/
-title: Calls
+title: Setups & Calls
 parent: Lineout
-nav_order: 2
+nav_order: 1
 back_to_top: true
 back_to_top_text: "Back to top"
 ---
-# Calls
+# Setups & Calls
 {: .no_toc }
 
 1. TOC
 {:toc}
 
-This section covers how we define the target jumper and movements involved in a lineout, and how we communicate them to the players involved.
+This section covers how we line up for a lineout (number of players and their positions), and how we communicate the target jumper and movements involved in a lineout to the players involved.
 
-# Calling process
+We assume no more than 3 strong jumpers in the lineout, one of whom is the caller (usually the middle jumper).
 
-When the huddle is called, the lineout caller will give the formation, call and play to the lineout players. Everyone now knows how to set up and what movements are expected. 
+## Formations
 
-As everyone gets into position, the caller triggers the move by shouting **"Set"**. This coordinates the timing for everyone, allowing for quick, controlled movements.
+We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. Each of these can be set up with many different formations (e.g. 1-3-2-1 or 1-1-3) so we need to keep things simple, but flexible.
 
-Every lineout will also have a **"Bang"** option, which is a quick option to override the call if needed. This is a throw to the pre-set middle or back pod (depending on the formation), in case it is a safer option given the defence's setup.
+| :----------- | :---------------- | 
+| **Squeeze**  _(default)_ | A middle pod[^1] is pre-set as a quick option ("Bang") or to draw in the defence before executing a movement | 
+| **Spread**   | Players are spaced out across the lineout. This gives the defence no clear focal point, so we can attack wherever is least well defended, or back ourselves to beat a mirror defence with speed of execution.   | 
+| **Split**    | Pods are split between front and back, creating space to attack in the middle, either using movement during the lineout or moving the ball quickly away  | 
 
-<img src="{{ '/assets/images/lineout/call-process.png' | relative_url }}" style="width: 60%; height: auto;"/>
+<img src="{{ '/assets/images/lineout/formations.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-Alternatively, if the "Bang" option is insufficient, the caller can call "Cancel" followed by a new call, pausing to allow the players to reset before calling "Set". This is the only time the opposition gets to hear our calls, but if only used infrequently it gives us full flexibility to respond to defensive changes during a game.
+{: .info .fs-3 }
+> Our default formation is a **"Squeeze"** (for 4- 5- or 7-man lineouts).
+> 
+> The others will be introduced as needed, but we should be careful not to over-complicate things.
 
-# Call components
+[^1]: Or back pod in the case of the 4-man version.
 
+## Calls
 
-
-## Target zones
+### Target zones
 
 Given we rarely have more than 3 strong jumpers in the lineout, and to keep options relatively simple, we divide the 10m lineout channel into 3 zones (1, 2, 3), each with a corresponding target jumper.
 
@@ -46,8 +52,8 @@ So a simple call might be:
   - 2-3-2 formation 
   - "Bang" option to the middle pod
   - Target jumper is the back pod (3)
-
-## Dummies
+  
+### Dummies
 
 To beat the defence, we can use dummy jumps to draw defenders to one area and then quickly jump elsewhere before they can reorganise. Using the numbering system above, we can call a dummy jump by simply putting one number after another.
 
@@ -58,7 +64,7 @@ For example, the old "RD" call could now be called **"12"**:
 
 This commits the defence before throwing over them to a stronger attacking position further back.
 
-## Steps
+### Steps
 
 Rather than commit to a dummy jump and multiple movements, we can also simply call to a target pod moving forward (**"+"**) or backwards (**"-"**)from its starting position.
 
@@ -68,8 +74,9 @@ This is useful if our pod is being marked closely, as it allows us to specifical
 
 For example, against a 5-man mirror defence, we might call **"2+"** to give us the option for the middle pod to take a quick step forward to get in front of the defence before jumping, to jump immediately (on "Bang").
 
+---
 
-# Examples
+## Examples
 
 Click a call to see an explanation:
 
