@@ -22,7 +22,7 @@ We assume no more than 3 strong jumpers in the lineout, one of whom is the calle
 We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. Each of these can be set up with many different formations (e.g. 1-3-2-1 or 1-1-3) so we need to keep things simple, but flexible.
 
 | :----------- | :---------------- | 
-| **Squeeze**  _(default)_ | A middle pod[^1] is pre-set as a quick option ("Bang") or to draw in the defence before executing a movement | 
+| **Squeeze** | A middle pod[^1] is pre-set as a quick option ("Bang") or to draw in the defence before executing a movement. _**This is our default setup**_ | 
 | **Spread**   | Players are spaced out across the lineout. This gives the defence no clear focal point, so we can attack wherever is least well defended, or back ourselves to beat a mirror defence with speed of execution.   | 
 | **Split**    | Pods are split between front and back, creating space to attack in the middle, either using movement during the lineout or moving the ball quickly away  | 
 
