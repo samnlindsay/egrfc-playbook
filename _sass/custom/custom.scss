@@ -80,3 +80,26 @@ th, td {
 .attack, .defence {
     padding-bottom: 1px !important;
 }
+
+
+details {
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+
+    background: #e5e4e7;
+    overflow: hidden;
+
+
+    /* Borders & Colors, Interaction: */
+    border-style: solid;
+    border-width: var(--border-width);
+    border-radius: .5em;
+}
+
+summary {
+    color: #202946;
+    padding-left: .4em;
+    font-size: 1.4em;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
