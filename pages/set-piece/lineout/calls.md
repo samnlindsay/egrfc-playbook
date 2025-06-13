@@ -13,97 +13,61 @@ back_to_top_text: "Back to top"
 1. TOC
 {:toc}
 
-This section covers how we line up for a lineout (number of players and their positions), and how we communicate the target jumper and movements involved in a lineout to the players involved.
+This section covers our lineout structure (player numbers and positions) and how we communicate the target jumper and movement.
 
-We assume no more than 3 strong jumpers in the lineout, one of whom is the caller (usually the middle jumper).
+We typically have up to 3 strong jumpers, with the caller usually in the middle.
 
 ## Formations
+
+<img src="{{ '/assets/images/lineout/formations.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
 We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. Each of these can be set up with many different formations (e.g. 1-3-2-1 or 1-1-3) so we need to keep things simple, but flexible.
 
 | :----------- | :---------------- | 
-| **Squeeze** | A middle pod[^1] is pre-set as a quick option ("Bang") or to draw in the defence before executing a movement. _**This is our default setup**_ | 
-| **Spread**   | Players are spaced out across the lineout. This gives the defence no clear focal point, so we can attack wherever is least well defended, or back ourselves to beat a mirror defence with speed of execution.   | 
-| **Split**    | Pods are split between front and back, creating space to attack in the middle, either using movement during the lineout or moving the ball quickly away  | 
-
-<img src="{{ '/assets/images/lineout/formations.png' | relative_url }}" style="width: 100%; height: auto;"/>
-
-{: .info .fs-3 }
-> Our default formation is a **"Squeeze"** (for 4- 5- or 7-man lineouts).
-> 
-> The others will be introduced as needed, but we should be careful not to over-complicate things.
+| **Squeeze** | A pre-set middle pod[^1] is ready for a quick "Bang" or to draw in the defence before moving. _**Default setup**_ | 
+| **Spread** | Evenly spaced, keeping the defence guessing so we can attack weak spots or win with speed. | 
+| **Split** | Pods at front and back create space in the middle for movement or quick delivery. | 
 
 [^1]: Or back pod in the case of the 4-man version.
 
 ## Calls
 
-### Target zones
-
-Given we rarely have more than 3 strong jumpers in the lineout, and to keep options relatively simple, we divide the 10m lineout channel into 3 zones (1, 2, 3), each with a corresponding target jumper.
-
 <img src="{{ '/assets/images/lineout/target-jumper.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-{: .info .fs-3}
-> These zones also leave us with a no-jump option (**0**) at the front of the lineout (i.e. "Matlow")
+We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or **0** for the very front with no jump (i.e. "Matlow").
 
-So a simple call might be: 
+{: .example .fs-4 .lh-tight}
+> **"7-man Squeeze 3"**
+> 
+> Initial 2-3-2 formation. Throw to the back (3) on **"Set"**. Throw to the middle pod on **"Bang"**.
 
-- **"7-man Squeeze 3"**
-  - 2-3-2 formation 
-  - "Bang" option to the middle pod
-  - Target jumper is the back pod (3)
-  
 ### Dummies
+{: .no_toc }
 
-To beat the defence, we can use dummy jumps to draw defenders to one area and then quickly jump elsewhere before they can reorganise. Using the numbering system above, we can call a dummy jump by simply putting one number after another.
+To mislead the defence, we use dummy jumps. Call two numbers in sequence — the first is the dummy, the second is the real target.
 
-For example, the old "RD" call could now be called **"12"**:
-
-- Dummy jump at the front (1), followed by
-- a throw to the middle (2)
-
-This commits the defence before throwing over them to a stronger attacking position further back.
+{: .example .fs-4 .lh-tight}
+> **"1 2"**
+> 
+> Dummy at the front (1), throw to middle (2). Similar to the old "RD", or "Canterbury 3".
 
 ### Steps
-
-Rather than commit to a dummy jump and multiple movements, we can also simply call to a target pod moving forward (**"+"**) or backwards (**"-"**)from its starting position.
-
-This is useful if our pod is being marked closely, as it allows us to specifically train and call for a decisive movement of the whole pod to get in front or behind the defence.
+{: .no_toc }
 
 <img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-For example, against a 5-man mirror defence, we might call **"2+"** to give us the option for the middle pod to take a quick step forward to get in front of the defence before jumping, to jump immediately (on "Bang").
+We can call slight forward (**"+"**) or backward (**"-"**) movements to adjust pod position and beat tight marking.
+
+{: .example .fs-4 .lh-tight}
+> **"2+"**
+> 
+> Middle pod steps forward to gain position. Can still jump on "Bang" if needed.
 
 ---
 
-## Examples
+## Full Examples
 
-Click a call to see an explanation:
-
-<details>
-  <summary>
-    <span class='fs-5 fw-700'>5-man Squeeze 12</span>
-  </summary>
-  <img src="{{ '/assets/images/lineout/5man-12.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</details>
-
-<details>
-  <summary>
-    <span class='fs-5 fw-700'>7-man Squeeze 11</span>
-  </summary>
-  <img src="{{ '/assets/images/lineout/7man-11.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</details>
-
-<details>
-  <summary>
-    <span class='fs-5 fw-700'>5-man Split 3+</span>
-  </summary>
-  <img src="{{ '/assets/images/lineout/5man-split3+.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</details>
-
-<details>
-  <summary>
-    <span class='fs-5 fw-700'>7-man Squeeze 120</span>
-  </summary>
-  <img src="{{ '/assets/images/lineout/7man-120.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</details>
+<img src="{{ '/assets/images/lineout/5man-12.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+<img src="{{ '/assets/images/lineout/7man-11.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+<img src="{{ '/assets/images/lineout/5man-split3+.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+<img src="{{ '/assets/images/lineout/7man-120.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>

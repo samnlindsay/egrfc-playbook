@@ -33,3 +33,6 @@ callouts:
     color: red
   info:
     color: blue
+  example:
+    color: blue
+    title: Example
