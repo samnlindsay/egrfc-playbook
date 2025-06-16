@@ -1,11 +1,6 @@
 title: "<img src='/egrfc-playbook/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
 theme: just-the-docs
 
-# Custom CSS
-just_the_docs:
-  custom_css:
-    - "assets/css/just-the-docs-custom.css"
-
 favicon_ico: "/assets/images/favicon.ico"
 
 # Optional config

@@ -11,9 +11,11 @@ back_to_top_text: "Back to top"
 
 ## Box 1
 
-- 12 runs an out-to-in line
+<img src="{{ '/assets/images/attack/box1.png' | relative_url }}" style="width:100%; max-width: 400px; height: auto;"/>
+
+<!-- - 12 runs an out-to-in line
 - Blind side winger sits behind 10 before running wide, taking the ball behind 12
-- 10 picks the pass to put one of them through a gap
+- 10 picks the pass to put one of them through a gap -->
 
 <details>
 <summary><b>Option 1</b> - short to 12</summary>
