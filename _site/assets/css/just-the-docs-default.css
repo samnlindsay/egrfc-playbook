@@ -7875,27 +7875,51 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3rem !important;
   margin-top: 1.75rem !important;
+  font-family: "PT Sans Narrow", sans-serif !important;
 }
 
 h2 {
   font-size: 2.5rem !important;
   margin-top: 1.5rem !important;
+  font-family: "PT Sans Narrow", sans-serif !important;
 }
 
 h3 {
   font-size: 2rem !important;
   margin-top: 1.25rem !important;
+  font-family: "PT Sans Narrow", sans-serif !important;
 }
 
 h4 {
   font-size: 1.5rem !important;
   margin-top: 1.25rem !important;
+  font-family: "PT Sans Narrow", sans-serif !important;
 }
 
 body {
   font-family: "Lato", sans-serif !important;
 }
 
+/* Ensure strong/em also inherit fonts correctly */
+strong,
+em,
+blockquote {
+  font-family: inherit;
+}
+
+@media only screen and (max-width: 768px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "PT Sans Narrow", sans-serif !important;
+  }
+  body {
+    font-family: "Lato", sans-serif !important;
+  }
+}
 .side-bar {
   background-color: #202946;
 }

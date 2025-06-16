@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Forward Pods
+permalink: /attack/forwards/
 parent: Attack
 nav_order: 2
 back_to_top: true
@@ -9,33 +10,66 @@ back_to_top_text: "Back to top"
 
 # Forward Pods
 
-<img src="{{ '/assets/images/attack/pod.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-<!-- We generally assume the **Lead** will carry into contact, but all 3 members of a pod must be prepared to receive the ball:
+## Pod structure
 
-**Lead** carries into contact
-**Lead** tips the ball to **Plus**
-**Lead** pulls the ball back to **Minus**  -->
-<!-- - “Take-off” - pass behind the forward pod, directly to the **COP** -->
+Each forward pod consists of 3 players in an L shape:
 
-- 1/2/3 options
-- Playmakers (optional)
-  - tip back inside
-  - take off
-  - others?
+- **"Lead"** looks to take the ball off 9 or 10 and carry
+- **"Plus"** is close on his outside to support the carry or take a flat tip pass
+- **"Minus"** sits behind "Lead" tracking across to support either ball carrier or to take a pull back pass
 
-## King
+As last season, these 3 options can be quickly communicated as **"1"** (carry), **"2"** (tip) and **"3"** (release)
 
-Pod off 9
+<img src="{{ '/assets/images/attack/pod.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
-## Queen
+### Backs joining pods
 
-Pod off 10
+<div style="float: left; width: 50%; margin-right: 20px;">
+    <img src="{{ '/assets/images/attack/2pod.png' | relative_url }}" style="width: 100%; height: auto;"/>
+</div>
 
-## Punga
+In the 3-3-2 structure, one pod only has two forwards, so a back needs to fill the **"Minus"** role, supporting the forward ball carriers, or being released down the wing.
 
-Pick and go
+<br style="clear: both;" />
 
-## Rhino
+<div style="float: left; width: 50%; margin-right: 20px;">
+    <img src="{{ '/assets/images/attack/takeoff.png' | relative_url }}" style="width: 100%; height: auto;"/>
+</div>
 
-1-out punch off 9
+There is no longer a "Captain of Play" expected behind every pod, allowing the backs more freedom. 
+
+A back can still step into that role and call **"Take off"** for the ball to be passed behind the advancing pod for the backs to go wide.
+
+<br style="clear: both;" />
+
+## **King** - pod off 9
+
+**Lead** takes the ball at pace off 9, aiming outside the C defender.
+
+<img src="{{ '/assets/images/attack/king.png' | relative_url }}" style="width: 80%; height: auto;"/>
+
+## **Queen** - pod off 10
+
+Identical shape as a **King** but set deeper and wider, receiving the ball from 10 and looking to find a gap in the defence, choosing from one of the above options.
+
+<img src="{{ '/assets/images/attack/queen.png' | relative_url }}" style="width: 80%; height: auto;"/>
+
+## **Punga** - pick and go
+
+- 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
+- Ball carrier picks up with 2 teammates ready to support
+- Aim for B defender’s outside shoulder
+- Repeat x 3 (same direction)
+
+<img src="{{ '/assets/images/attack/punga.png' | relative_url }}" style="width: 80%; height: auto;"/>
+
+## **Rhino** - short punch off 9
+
+- 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
+- 9 pops the ball to the **Lead** runner
+- Aim for B defender’s outside shoulder
+- Repeat x 3 (same direction)
+- Expect a “Release” on the 3rd phase. **Lead** runner pulls the ball back before contact
+
+<img src="{{ '/assets/images/attack/rhino.png' | relative_url }}" style="width: 80%; height: auto;"/>
