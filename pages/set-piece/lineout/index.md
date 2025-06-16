@@ -42,12 +42,11 @@ Our default is a **5-man "Squeeze"** (1-3-1 formation) with a quick option ("Ban
 If the defence is putting us under pressure, we can vary the formation, the calls, or the numbers.<br style="clear: both;"/>
 
 ## How a lineout is formed
-We pre-call lineouts to avoid tipping off the defence and ensure everyone knows the plan. The lineout caller (usually the main jumper) and backs leader (usually the 10) make and communicate the decision quickly.
-
-As soon as the ball is dead, the lineout forwards (except the hooker) huddle. The caller announces the formation and play, and players move to position. 9 and 10 organise the backs and any loose forwards not in the lineout.
-
+We pre-call lineouts to avoid tipping off the defence and ensure everyone knows the plan. The lineout caller and the fly half decide between them and organise everyone else.
 
 <img src="{{ '/assets/images/lineout/lineout-flowchart.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
+As soon as the ball is dead, the lineout forwards huddle. The caller announces the formation and play, and players move to position. 9 and 10 organise the backs and any loose forwards not in the lineout.
 
 ## Calling process
 

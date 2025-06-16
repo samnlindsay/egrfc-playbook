@@ -10,4 +10,8 @@ back_to_top_text: "Back to top"
 
 # Restarts
 
-Blah
+## 1-4-1-3 formation
+
+### Example - 1st phase through the backs
+
+[gif into 3-3-2 patten]

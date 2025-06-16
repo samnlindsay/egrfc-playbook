@@ -1,21 +1,18 @@
 ---
-layout: default
-permalink: /lineout/calls/
-title: Setups & Calls
-parent: Lineout
-nav_order: 1
-back_to_top: true
-back_to_top_text: "Back to top"
+layout: default  
+permalink: /lineout/attack/  
+title: Attack  
+parent: Lineout  
+nav_order: 1  
+back_to_top: true  
+back_to_top_text: "Back to top"  
+
 ---
-# Setups & Calls
-{: .no_toc }
 
-1. TOC
-{:toc}
+# Attack  
+{: .no_toc}
 
-This section covers our lineout structure (player numbers and positions) and how we communicate the target jumper and movement.
-
-We typically have up to 3 strong jumpers, with the caller usually in the middle.
+This section covers our setup, how we call the throw and any movements in the lineout, and then how we play the ball away from the lineout.
 
 ## Formations
 
@@ -32,16 +29,17 @@ We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. 
 
 ## Calls
 
-<img src="{{ '/assets/images/lineout/target-jumper.png' | relative_url }}" style="width: 100%; height: auto;"/>
-
 We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or **0** for the very front with no jump (i.e. "Matlow").
+
+<!-- <img src="{{ '/assets/images/lineout/target-jumper.png' | relative_url }}" style="width: 100%; height: auto;"/> -->
+<img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
 {: .example .fs-4 .lh-tight}
 > **"7-man Squeeze 3"**
 > 
 > Initial 2-3-2 formation. Throw to the back (3) on **"Set"**. Throw to the middle pod on **"Bang"**.
 
-### Dummies
+### Dummy jumps
 {: .no_toc }
 
 To mislead the defence, we use dummy jumps. Call two numbers in sequence — the first is the dummy, the second is the real target.
@@ -54,20 +52,49 @@ To mislead the defence, we use dummy jumps. Call two numbers in sequence — the
 ### Steps
 {: .no_toc }
 
-<img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
-
-We can call slight forward (**"+"**) or backward (**"-"**) movements to adjust pod position and beat tight marking.
+We can call slight forward ("**+**") or backward ("**--**") movements to adjust pod position and beat tight marking.
 
 {: .example .fs-4 .lh-tight}
 > **"2+"**
 > 
 > Middle pod steps forward to gain position. Can still jump on "Bang" if needed.
 
----
+### Call Examples
+{: .no_toc }
 
-## Full Examples
+Click one of the below calls to show a diagram.
 
+<details>
+<summary><b>5-man</b> (Squeeze) <b>1 2</b></summary>
 <img src="{{ '/assets/images/lineout/5man-12.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+</details>
+
+<details>
+<summary><b>7-man</b> (Squeeze) <b>1 1</b></summary>
 <img src="{{ '/assets/images/lineout/7man-11.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+</details>
+
+<details>
+<summary><b>5-man</b> (Split) <b>3+</b></summary>
 <img src="{{ '/assets/images/lineout/5man-split3+.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+</details>
+
+<details>
+<summary><b>7-man</b> (Squeeze) <b>1 2 0</b></summary>
 <img src="{{ '/assets/images/lineout/7man-120.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+</details>
+
+--- 
+
+## Plays
+
+- Hot
+  - No more information necessary in lineout (see Backs Moves)
+- Cold
+  - Standard drive
+  - "Transfer" - shift drive
+  - TBC ("Flyby"?) - peel
+
+<img src="{{ '/assets/images/lineout/plays.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
+---
