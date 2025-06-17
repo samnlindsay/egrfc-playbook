@@ -9,7 +9,13 @@ back_to_top_text: "Back to top"
 ---
 
 # Forward Pods
+{: .no_toc }
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Pod structure
 
@@ -24,6 +30,7 @@ As last season, these 3 options can be quickly communicated as **"1"** (carry), 
 <img src="{{ '/assets/images/attack/pod.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
 ### Backs joining pods
+{: .no_toc}
 
 <div style="float: left; width: 50%; margin-right: 20px;">
     <img src="{{ '/assets/images/attack/2pod.png' | relative_url }}" style="width: 100%; height: auto;"/>

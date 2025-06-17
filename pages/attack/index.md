@@ -1,15 +1,22 @@
 ---
 layout: default
 title: Attack
+permalink: /attack/
 nav_order: 1
 back_to_top: true
 back_to_top_text: "Back to top"
 ---
 
 # Attack
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Attacking zones
-{: .no_toc}
 
 <div style="float: left; width: 50%; margin-right: 40px;">
     <img src="{{ '/assets/images/attack/attackingzones.png' | relative_url }}" style="width: 100%; height: auto;"/>
@@ -36,7 +43,6 @@ back_to_top_text: "Back to top"
 <br style="clear: both;" />
 
 ## 3-3-2 structure
-{: .no_toc}
 
 In open play, we structure our game around a 3-3-2 pattern of forwards, with the backs playing "heads up" behind/between these forward pods.
 

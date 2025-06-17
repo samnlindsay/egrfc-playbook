@@ -10,7 +10,13 @@ back_to_top_text: "Back to top"
 ---
 
 # Attack  
-{: .no_toc}
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 This section covers our setup, how we call the throw and any movements in the lineout, and then how we play the ball away from the lineout.
 
@@ -50,7 +56,7 @@ To mislead the defence, we use dummy jumps. Call two numbers in sequence — the
 > Dummy at the front (1), throw to middle (2). Similar to the old "RD", or "Canterbury 3".
 
 ### Steps
-{: .no_toc }
+{: .no_toc}
 
 We can call slight forward ("**+**") or backward ("**--**") movements to adjust pod position and beat tight marking.
 
@@ -60,7 +66,6 @@ We can call slight forward ("**+**") or backward ("**--**") movements to adjust 
 > Middle pod steps forward to gain position. Can still jump on "Bang" if needed.
 
 ### Call Examples
-{: .no_toc }
 
 Click one of the below calls to show a diagram.
 

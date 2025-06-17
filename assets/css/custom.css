@@ -2,3 +2,64 @@
     --body-font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
         Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
+
+:root {
+    --body-font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+        Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Apply Lato to all body and non-heading text */
+body,
+p,
+ul,
+ol,
+li,
+a,
+table,
+td,
+th,
+details,
+summary {
+    font-family: 'Lato', sans-serif !important;
+}
+
+/* Apply PT Sans Narrow to all headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.sidebar ul li a,
+.site-title {
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+/* Ensure callouts, navs, and buttons also respect font */
+.callout,
+.nav-list,
+.btn,
+.site-nav {
+    font-family: 'Lato', sans-serif !important;
+}
+
+/* Force fonts to apply on all screen sizes */
+@media (max-width: 768px) {
+
+    body,
+    p,
+    ul,
+    li,
+    a {
+        font-family: 'Lato', sans-serif !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'PT Sans Narrow', sans-serif !important;
+    }
+}

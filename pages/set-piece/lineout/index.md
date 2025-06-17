@@ -9,6 +9,13 @@ back_to_top_text: "Back to top"
 ---
 
 # Lineout
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 Both teams have 10-20 attacking lineouts per game, giving them the opportunity to set up an attack from a controlled platform.
 
@@ -29,9 +36,9 @@ Both teams have 10-20 attacking lineouts per game, giving them the opportunity t
 
 Our lineout menu can be summarised by different options for the following:
 
-- [**Setup**](calls/#formations) - how many players and how they are positioned
-- [**Call**](calls/#calls) - how different movements are defined and communicated among the players
-- [**Play**](plays/) - how the ball is delivered from the lineout
+- [**Setup**](attack/#formations) - how many players and their formation
+- [**Call**](attack/#calls) - how different movements are defined and communicated among the players
+- [**Play**](attack/#plays) - how the ball is delivered from the lineout
 
 <div style="float: left; width: 50%; margin-right: 10px;">
     <img src="{{ '/assets/images/lineout/1-3-1.png' | relative_url }}" style="width: 100%; height: auto;"/>
