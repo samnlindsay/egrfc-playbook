@@ -1,11 +1,12 @@
-title: "<img src='/egrfc-playbook/assets/images/logo.png' class='logo' style='height:75px; padding:10px;'/> EGRFC Playbook"
+title: "<img src="{{ '/assets/images/logo.png' | relative_url }}" ... /> EGRFC Playbook"
+
 theme: just-the-docs
 
 favicon_ico: "/assets/images/favicon.ico"
 
-# Optional config
-baseurl: "/egrfc-playbook"
-url: "https://samnlindsay.github.io" # Replace with your actual GitHub Pages site
+# These two lines need to change:
+baseurl: ""  # Previously "/egrfc-playbook"
+url: "https://egrfcplaybook.uk"  # Previously samnlindsay.github.io
 
 # Enable relative links
 relative_links:
