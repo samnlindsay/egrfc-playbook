@@ -1,3 +1,141 @@
+/* Import Google Fonts explicitly */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Lato&display=swap');
+
+h1 {
+    font-size: 3rem !important;
+    margin-top: 1.75rem !important;
+    font-family: "PT Sans Narrow", sans-serif !important;
+}
+
+h2 {
+    font-size: 2.5rem !important;
+    margin-top: 1.5rem !important;
+    font-family: "PT Sans Narrow", sans-serif !important;
+}
+
+h3 {
+    font-size: 2rem !important;
+    margin-top: 1.25rem !important;
+    font-family: "PT Sans Narrow", sans-serif !important;
+}
+
+h4 {
+    font-size: 1.5rem !important;
+    font-family: "PT Sans Narrow", sans-serif !important;
+}
+
+body {
+    font-family: "Lato", sans-serif !important;
+}
+
+/* Ensure strong/em also inherit fonts correctly */
+strong,
+em,
+blockquote {
+    font-family: inherit;
+}
+
+@media only screen and (max-width: 768px) {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'PT Sans Narrow', sans-serif !important;
+    }
+
+    body {
+        font-family: 'Lato', sans-serif !important;
+    }
+}
+
+.side-bar {
+    background-color: #202946;
+}
+
+// First column of tables
+th:first-child,
+td:first-child {
+    background-color: #e5e4e7;
+    color: black;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-size: 1.2rem !important;
+}
+
+th,
+td {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+.nav-list-item {
+    a {
+        color: white;
+
+        &.active {
+            color: black;
+        }
+    }
+
+    .nav-list {
+        .nav-list-item {
+            a {
+                color: white;
+
+                &.active {
+                    color: black !important;
+                }
+            }
+        }
+    }
+}
+
+.nav-list-expander,
+.icon {
+    color: white !important;
+}
+
+.nav-list .nav-list-item .nav-list-link {
+    font-family: "PT Sans Narrow", sans-serif !important;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.site-title {
+    font-family: "PT Sans Narrow", sans-serif !important;
+    color: white;
+    padding: 10px;
+}
+
+.attack,
+.defence {
+    padding-bottom: 1px !important;
+}
+
+
+details {
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+
+    background: #e5e4e7;
+    overflow: hidden;
+
+
+    /* Borders & Colors, Interaction: */
+    border-style: solid;
+    border-width: var(--border-width);
+    border-radius: .5em;
+}
+
+summary {
+    color: #202946;
+    padding-left: .4em;
+    font-size: 1.4em;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
 h1,h2,h3,h4,h5,h6 {
     font-family: "PT Sans Narrow", sans-serif !important;
 }
