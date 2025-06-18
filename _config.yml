@@ -1,4 +1,4 @@
-title: "<img src="{{ '/assets/images/logo.png' | relative_url }}" ... /> EGRFC Playbook"
+title: '<img src="/assets/images/logo.png" class="logo" style="height:75px; padding:10px;" /> EGRFC Playbook'
 
 theme: just-the-docs
 
