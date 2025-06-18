@@ -3,9 +3,7 @@ layout: default
 title: Forward Pods
 permalink: /attack/forwards/
 parent: Attack
-nav_order: 2
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 11
 ---
 
 # Forward Pods

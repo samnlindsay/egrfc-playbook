@@ -269,3 +269,42 @@ summary {
     font-family: 'PT Sans Narrow', sans-serif !important;
 }
 
+// TOC
+.home-toc ol {
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin:0px;
+}
+.home-toc ol>li::before {
+    font-size: 1.5rem !important;
+}
+
+.home-toc li {
+    margin: 0px;
+}
+.home-toc ul {
+    margin: 0px;
+}
+
+.home-toc>ol>li>ul {
+    font-size: 1.5rem;
+}
+
+
+.home-toc ol>li>ul>li>ul {
+    font-weight: normal;
+    font-size: 1.3rem;
+}
+
+.home-toc ol ul>li::before {
+    content: "↳";
+    position: relative;
+    color: #aaa;
+    padding-right: 5px;
+    padding-left: 15px;
+}
+
+.home-toc ol ul ul>li::before {
+    padding-left: 25px;
+}

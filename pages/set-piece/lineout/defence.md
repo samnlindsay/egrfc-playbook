@@ -1,14 +1,19 @@
 ---
 layout: default
-permalink: /lineout/defence/
+permalink: /set-piece/lineout/defence/
 title: Defence
 parent: Lineout
-nav_order: 3
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 312
 ---
 
 # Defence
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 Lineout defence is harder than attack — you react without knowing the plan. Success depends on everyone working together with clear roles.
 

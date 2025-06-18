@@ -1,18 +1,23 @@
 ---
 layout: default
-permalink: /lineout/summary/
+permalink: /set-piece/lineout/summary/
 title: Summary
 parent: Lineout
-nav_order: 4
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 313
 ---
 
 # Summary
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 A summary of the key words and phrases used in the lineout.
 
-#### Formations
+### [Formations](attack.md#formations)
 
 How we describe the different configurations of players in a lineout (4-, 5- or 7-man).
 
@@ -21,18 +26,17 @@ How we describe the different configurations of players in a lineout (4-, 5- or 
 |  **Spread** | Even spacings between players |
 |  **Split** | Split across front and back pods with space in the middle (i.e. 3-1-3 or 3-2) |
 
-#### Target + Movements
+### [Target + Movements](attack.md#calls)
 
 How we identify the target jumper and any required movements.
 
 | :-------- | :---------- |
 | **0** | No-jump option to front |
 | **1** / **2** / **3** | Front / middle / back pod |
-| _"Plus"_ **(+)** | Pod steps forwards (e.g. `2+` = middle pod stepping forwards) |
-| _"Minus"_ **(-)** | Pod steps backwards (e.g. `1-` = front pod stepping backwards) |
-| **123** (or any other combination) | Dummy jump in the corresponding positions before throwing to the last number (e.g. `31` is a dummy at the back before throwing to the front, or `1- 2` (_"one minus, two"_) is a dummy to the front pod stepping backwards, and then a throw to the middle pod) |
+| _"Plus"_/_"Minus"_ **(+/-)** | Pod [steps](attack.md#steps) forwards (e.g. **"2+"**) or backwards (e.g. **"1-"**) |
+| **123** (or any other combination) | A series of [dummy jumps](attack.md#dummy-jumps) (e.g. `31` is a dummy at the back before throwing to the front, or `1- 2` (_"one minus, two"_) is a dummy to the front pod stepping backwards, and then a throw to the middle pod) |
 
-#### During the lineout
+### [During the lineout](index.md#calling-process)
 
 Options once the lineout is formed.
 
@@ -42,7 +46,7 @@ Options once the lineout is formed.
 |  **"Cancel..."** | Wait for a new call to be given |
 
 
-#### Defence
+### [Defence](defence.md)
 
 Defensive key words to describe our defensive setup, or that of our opposition.
 

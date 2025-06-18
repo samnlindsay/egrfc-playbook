@@ -1,11 +1,9 @@
 ---
 layout: default
-permalink: /lineout/
+permalink: /set-piece/lineout/
 title: Lineout
 parent: Set Piece
-nav_order: 1
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 31
 ---
 
 # Lineout

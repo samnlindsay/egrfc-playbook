@@ -3,9 +3,7 @@ layout: default
 title: Backs Moves
 permalink: /attack/backs/
 parent: Attack
-nav_order: 3
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 12
 ---
 
 # Backs Moves

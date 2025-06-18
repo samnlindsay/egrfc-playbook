@@ -3,16 +3,21 @@ layout: default
 permalink: /attack/summary/
 title: Summary
 parent: Attack
-nav_order: 4
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 13
 ---
 
 # Summary
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 A summary of the key words and phrases used in attacking play.
 
-#### Pods
+### [Pods](forwards.md#pod-structure)
 
 | :-------- | :---------- |
 |  **Lead** (1) | The expected ball carrier at the front of the pod, closest to the 9/10 |
@@ -27,14 +32,14 @@ A summary of the key words and phrases used in attacking play.
 |  **Punga** | A pick and go (x3) |
 |  **Rhino** | A short punch off 9 (a very narrow King pod) | 
 
-#### Backs moves
+### [Backs moves](backs.md)
 
 | :-------- | :---------- |
 | **Box** (1 or 2) | Blind side winger offering an out-the-back option behind a hard running center. Run off 10 (Box 1) or 12 (Box 2) |
 | **Blocker** | 13 running hard and 12 out the back |
 | **France** | 10 and the blind winger coming across to take the ball from 12, behind 13 |
 
-#### Open play
+### Open play
 
 | :-------- | :---------- |
 |  **Ace** | Box kick from 9 |

@@ -1,11 +1,9 @@
 ---
 layout: default
-permalink: /scrum/
+permalink: /set-piece/scrum/
 title: Scrum
 parent: Set Piece
-nav_order: 2
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 32
 ---
 
 # Scrum

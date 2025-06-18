@@ -1,12 +1,9 @@
 ---
 layout: default  
-permalink: /lineout/attack/  
+permalink: /set-piece/lineout/attack/  
 title: Attack  
 parent: Lineout  
-nav_order: 1  
-back_to_top: true  
-back_to_top_text: "Back to top"  
-
+nav_order: 311
 ---
 
 # Attack  

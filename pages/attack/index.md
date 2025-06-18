@@ -2,9 +2,7 @@
 layout: default
 title: Attack
 permalink: /attack/
-nav_order: 1
-back_to_top: true
-back_to_top_text: "Back to top"
+nav_order: 10
 ---
 
 # Attack
@@ -18,7 +16,7 @@ back_to_top_text: "Back to top"
 
 ## Attacking zones
 
-<div style="float: left; width: 50%; margin-right: 40px;">
+<div style="float: left; width: 300px; margin-right: 40px;">
     <img src="{{ '/assets/images/attack/attackingzones.png' | relative_url }}" style="width: 100%; height: auto;"/>
 </div>
 
