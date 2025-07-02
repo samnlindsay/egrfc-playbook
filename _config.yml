@@ -45,3 +45,6 @@ callouts:
   example:
     color: blue
     title: Example
+  note:
+    title: Note
+    color: red

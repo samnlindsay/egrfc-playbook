@@ -16,9 +16,7 @@ nav_order: 10
 
 ## Attacking zones
 
-<div style="float: left; width: 300px; margin-right: 40px;">
-    <img src="{{ '/assets/images/attack/attackingzones.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</div>
+<img src="{{ '/assets/images/attack/attackingzones.png' | relative_url }}" style="width: 100%; max-width:400px; height: auto;"/>
 
 **PATIENCE**
 - 60% opportunity conversion

@@ -21,16 +21,17 @@ A summary of the key words and phrases used in attacking play.
 
 | :-------- | :---------- |
 |  **Lead** (1) | The expected ball carrier at the front of the pod, closest to the 9/10 |
-|  **Plus** (2) | The outside tip option |
-|  **Minus** (3) | The "out the back" option |
+|  **Link** (2) | The outside tip option |
+|  **Pull** (3) | The "out the back" option |
 |  **Release** | Pass from the forwards to a supporting back |
 |  **Take off** | Pass behind the pod to a supporting back |
 
 | :-------- | :---------- |
+|  **Joker** | A pick and go (x3) |
+|  **Ace** | A short punch off 9 (a very narrow King pod) | 
 |  **King** | A pod running off 9 |
 |  **Queen** | A pod running off 10 |
-|  **Punga** | A pick and go (x3) |
-|  **Rhino** | A short punch off 9 (a very narrow King pod) | 
+
 
 ### [Backs moves](backs.md)
 
@@ -42,8 +43,8 @@ A summary of the key words and phrases used in attacking play.
 ### Open play
 
 | :-------- | :---------- |
-|  **Ace** | Box kick from 9 |
-|  **Jack** | Clearance kick from 10 |
+|  <span style="color: red">**Ace** (CHANGE)</span> | Box kick from 9 |
+|  <span style="color: red">**Jack** (CHANGE)</span>  | Clearance kick from 10 |
 |  **Ireland** | Cross-field kick |
 |  **Flash** | Get ball directly to the 10 (space out wide) |
 |  **Tango** | Change direction of play |

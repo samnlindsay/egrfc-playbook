@@ -45,6 +45,15 @@ Options once the lineout is formed.
 |  **"Set"** | Execute the pre-planned call |
 |  **"Cancel..."** | Wait for a new call to be given |
 
+### [Plays off lineout](attack.md#plays)
+
+How we call different options off the lineout.
+
+| :-------- | :---------- |
+|  **Hot** | Give the ball to the backs |
+|  **Cold** | Keep the ball in the forwards (direct maul) |
+|  **Transfer** | Shift drive - jumper passes the ball down to another forward in the line to shift the initial point of contact for the maul |
+|  **Flyby** | Bring the ball to ground for a maul before the receiver peels off to carry in the open |
 
 ### [Defence](defence.md)
 

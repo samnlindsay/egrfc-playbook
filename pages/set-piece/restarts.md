@@ -8,18 +8,11 @@ nav_order: 33
 
 # Restarts
 
-## 1-4-1-3 formation
-
-Forwards cover one side of the pitch while backs are spread across the other as shown, with the scrum half in a position to either follow a forward carry, or spread the ball wide.
-
-If the kick goes deep, the forwards carry short for 2 or 3 phases towards the 15m line and get into position for a box kick and chase.
+We no longer split the pitch with forwards on one side, mirroring the opposition who we expect to do the same. Instead, we set up symmetrically with forwards and backs on both sides of the pitch.
 
 <img src="{{ '/assets/images/restart.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
 
-If the ball is caught cleanly outside the 22m, the scrum half is waiting behind to feed the backs running into space on the opposite side of the pitch.
-
-With all the forwards on one side of the pitch, the backs are expected to clear the first ruck
-
-The example below demonstrates how the forwards can set the [3-3-2](../attack/index.md#3-3-2-structure) pattern for the following phases.
-
-<img src="{{ '/assets/images/kick-off-9-backs.gif' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
+This gives us clear options and individual roles, wherever the ball is kicked:
+- **Carry** - Between the 10m and 22m lines, left and right sides of the pitch are each covered by a prop, a second row and a flanker, ready to carry and support each other. The hooker covers the middle, directly in front of the kicker.
+- **Run** - Deeper kicks into the 22m leave more space to run the ball back, so this area is covered by the wings and centres, with the Number 8 in the middle.
+- **Kick** - Deep into our 22m, 10 and 15 are ready to kick to exit, with the scrum half in the middle to pass the ball to either of them.

@@ -20,8 +20,8 @@ nav_order: 11
 Each forward pod consists of 3 players in an L shape:
 
 - **"Lead"** looks to take the ball off 9 or 10 and carry
-- **"Plus"** is close on his outside to support the carry or take a flat tip pass
-- **"Minus"** sits behind "Lead" tracking across to support either ball carrier or to take a pull back pass
+- **"Link"** is close on his outside to support the carry or take a flat tip pass
+- **"Pull"** sits behind "Lead" tracking across to support either ball carrier or to take a pull back pass
 
 As last season, these 3 options can be quickly communicated as **"1"** (carry), **"2"** (tip) and **"3"** (release)
 
@@ -34,7 +34,7 @@ As last season, these 3 options can be quickly communicated as **"1"** (carry), 
     <img src="{{ '/assets/images/attack/2pod.png' | relative_url }}" style="width: 100%; height: auto;"/>
 </div>
 
-In the 3-3-2 structure, one pod only has two forwards, so a back needs to fill the **"Minus"** role, supporting the forward ball carriers, or being released down the wing.
+In the 3-3-2 structure, one pod only has two forwards, so a back needs to fill the **"Pull"** role, supporting the forward ball carriers, or being released down the wing.
 
 <br style="clear: both;" />
 
@@ -48,19 +48,25 @@ A back can still step into that role and call **"Take off"** for the ball to be 
 
 <br style="clear: both;" />
 
-## **King** - pod off 9
+## Pod plays
+
+Pods can be placed in different areas of the field relative to the previous ruck as below:
+
+<img src="{{ '/assets/images/attack/podplays.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+
+### **King** - pod off 9
 
 **Lead** takes the ball at pace off 9, aiming outside the C defender.
 
 <img src="{{ '/assets/images/attack/king.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
-## **Queen** - pod off 10
+### **Queen** - pod off 10
 
 Identical shape as a **King** but set deeper and wider, receiving the ball from 10 and looking to find a gap in the defence, choosing from one of the above options.
 
 <img src="{{ '/assets/images/attack/queen.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
-## **Punga** - pick and go
+### **Joker** - pick and go
 
 - 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
 - Ball carrier picks up with 2 teammates ready to support
@@ -69,7 +75,7 @@ Identical shape as a **King** but set deeper and wider, receiving the ball from 
 
 <img src="{{ '/assets/images/attack/punga.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
-## **Rhino** - short punch off 9
+### **Ace** - short punch off 9
 
 - 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
 - 9 pops the ball to the **Lead** runner
