@@ -16,27 +16,7 @@ nav_order: 10
 
 ## Attacking zones
 
-<img src="{{ '/assets/images/attack/attackingzones.png' | relative_url }}" style="width: 100%; max-width:400px; height: auto;"/>
-
-**PATIENCE**
-- 60% opportunity conversion
-
-**ATTACK SPACE**
-- Set piece execution
-- Strike to score
-- Shape + ruck speed
-- 3 perfect phase completion
-- Gain line
-- Work into patterns
-
-**TWO PHASES (MAX)**
-- Right chasers on their feet (wing/back row)
-- 9/10/12 kick long
-
-**EXIT ZONE**
-- Off the field with minimum risk
-
-<br style="clear: both;" />
+<img src="{{ '/assets/images/attack/attackingzones.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
 
 ## 3-3-2 structure
 
