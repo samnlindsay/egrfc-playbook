@@ -46,7 +46,7 @@ A summary of the key words and phrases used in attacking play.
 
 | :-------- | :---------- |
 |  <span style="color: red">**Ace** (CHANGE)</span> | Box kick from 9 |
-|  <span style="color: red">**Jack**</span>  | Clearance kick from 10 |
+|  **Jack** | Clearance kick from 10 |
 |  **Ireland** | Cross-field kick |
 |  **Flash** | Get ball directly to the 10 (space out wide) |
 |  **Tango** | Change direction of play |
