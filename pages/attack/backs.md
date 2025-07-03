@@ -87,7 +87,7 @@ The same as Box 1 but wider in the back line, with 12 as the playmaker
 </details>
 
 
-## [TBC 1]
+## <span style="color: red">**TBC 1**</span>
 
 - 10 passes to 12, with 13 running hard on his outside
 - 10 loops around 12 to give an option behind 13
@@ -96,7 +96,7 @@ The same as Box 1 but wider in the back line, with 12 as the playmaker
 <img src="{{ '/assets/images/attack/tbc1.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
 
 
-## TBC 2
+## <span style="color: red">**TBC 2**</span>
 
 - 10 gives a miss pass to 13
 - 13 pops it back inside to 12 or...
