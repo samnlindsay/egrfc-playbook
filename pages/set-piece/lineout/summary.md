@@ -26,6 +26,9 @@ How we describe the different configurations of players in a lineout (4-, 5- or 
 |  **Spread** | Even spacings between players |
 |  **Split** | Split across front and back pods with space in the middle (i.e. 3-1-3 or 3-2) |
 
+| :-------- | :---------- |
+| N **+ 1** | A **5+1** lineout is a 5-man with a forward in the receiver position (for **Cold** lineouts), rather than a scrum half (**Hot**). |
+
 ### [Target + Movements](attack.md#calls)
 
 How we identify the target jumper and any required movements.

@@ -139,4 +139,14 @@ For simplicity, the ball carrier should expect to pass to the 9 (i.e. [♣️ **
 >
 > **Only run it when the backs have asked for it (or been told to expect it)**
 
+### Short lineouts
+
+If **Hot** is called, a short lineout leaves 2 or 3 forwards to be used in the back line. 
+
+For **Cold** lineouts, we need one of those extra forwards in the receiver (scrum half) position, because there are fewer unused forwards ready to support the lifting pod.
+
+<img src="{{ '/assets/images/lineout/+1.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
+This "+1" player can also unlock some more complex movements, particularly using the **Split** formation to challenge the defence.
+
 ---
