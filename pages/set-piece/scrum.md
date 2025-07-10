@@ -21,7 +21,7 @@ nav_order: 32
     <img src="{{ '/assets/images/scrum/scrum.png' | relative_url }}" style="width: 100%; height: auto;"/>
 </div>
 
-Once the scrum is complete, we should aim to establish our [3-3-2](../attack/index.md#3-3-2-structure) pattern quickly as we transition to open phase play, led by the number 8 and flankers.
+Once the scrum is complete, we should aim to establish our [3-3-2](../../attack#3-3-2-structure) pattern quickly as we transition to open phase play, led by the number 8 and flankers.
 
 <br style="clear:both;" />
 
@@ -40,7 +40,7 @@ Typically, the ball will be played through the backs, with 8 and 7 expected to f
 
 ## Plays off scrum (or maul) &nbsp; <span class="badge-new">NEW</span>
 
-The ball is usually played away from a scrum or maul by the scrum half, where the backs can run a pre-planned [backs move](../attack/backs.md).
+The ball is usually played away from a scrum or maul by the scrum half, where the backs can run a pre-planned [backs move](../../attack/backs).
 
 The alternative is for the 8 to pick up the ball at the back of the scrum (or the player at the back of a maul) and carry it forward, drawing in defenders around the scrum (or maul) before passing to the backs.
 

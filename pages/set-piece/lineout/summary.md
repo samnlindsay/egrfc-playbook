@@ -17,7 +17,7 @@ nav_order: 313
 
 A summary of the key words and phrases used in the lineout.
 
-### [Formations](attack.md#formations)
+### [Formations](../attack#formations--new)
 
 How we describe the different configurations of players in a lineout (4-, 5- or 7-man).
 
@@ -29,17 +29,17 @@ How we describe the different configurations of players in a lineout (4-, 5- or 
 | :-------- | :---------- |
 | N **+ 1** | A **5+1** lineout is a 5-man with a forward in the receiver position (for **Cold** lineouts), rather than a scrum half (**Hot**). |
 
-### [Target + Movements](attack.md#calls)
+### [Target + Movements](../attack#calls--new)
 
 How we identify the target jumper and any required movements.
 
 | :-------- | :---------- |
 | **0** | No-jump option to front |
 | **1** / **2** / **3** | Front / middle / back pod |
-| _"Plus"_/_"Minus"_ **(+/-)** | Pod [steps](attack.md#steps) forwards (e.g. **"2+"**) or backwards (e.g. **"1-"**) |
-| **123** (or any other combination) | A series of [dummy jumps](attack.md#dummy-jumps) (e.g. `31` is a dummy at the back before throwing to the front, or `1- 2` (_"one minus, two"_) is a dummy to the front pod stepping backwards, and then a throw to the middle pod) |
+| _"Plus"_/_"Minus"_ **(+/-)** | Pod [steps](../attack#steps) forwards (e.g. **"2+"**) or backwards (e.g. **"1-"**) |
+| **123** (or any other combination) | A series of [dummy jumps](../attack#dummy-jumps) (e.g. `31` is a dummy at the back before throwing to the front, or `1- 2` (_"one minus, two"_) is a dummy to the front pod stepping backwards, and then a throw to the middle pod) |
 
-### [During the lineout](index.md#calling-process)
+### [During the lineout](../#calling-process)
 
 Options once the lineout is formed.
 
@@ -48,7 +48,7 @@ Options once the lineout is formed.
 |  **"Set"** | Execute the pre-planned call |
 |  **"Cancel..."** | Wait for a new call to be given |
 
-### [Plays off lineout](attack.md#plays)
+### [Plays off lineout](../attack#plays)
 
 How we call different options off the lineout.
 
@@ -58,7 +58,7 @@ How we call different options off the lineout.
 |  **Transfer** | Shift drive - jumper passes the ball down to another forward in the line to shift the initial point of contact for the maul |
 |  **Flyby** | Bring the ball to ground for a maul before the receiver peels off to carry in the open |
 
-### [Defence](defence.md)
+### [Defence](../defence)
 
 Defensive key words to describe our defensive setup, or that of our opposition.
 

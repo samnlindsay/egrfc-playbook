@@ -102,7 +102,7 @@ The final part of the lineout is how we play the ball once it has been secured. 
 
 ## Hot
 
-If the backs ask for a **Hot** ball, the jumper passes directly to the scrum half, who can play the ball as determined by the backs (e.g. a [Backs Move](../attack/backs.md) or [King or Queen](../attack/forwards.md#king---pod-off-9) off a short lineout).
+If the backs ask for a **Hot** ball, the jumper passes directly to the scrum half, who can play the ball as determined by the backs (e.g. a [Backs Move](../../../attack/backs) or [King or Queen](../../../attack/forwards#king---pod-off-9) off a short lineout).
 
 <img src="{{ '/assets/images/lineout/hot.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
@@ -113,7 +113,7 @@ If the backs ask for a **Cold** ball, the standard option is for the jumper to b
 <img src="{{ '/assets/images/lineout/cold.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
 {: .note .fs-4 .lh-tight}
-> The forward at the back of the maul acts effectively as a number 8 in a scrum (see [Plays off scrum](../set-piece/scrum.md#plays-off-scrum-or-maul)) so the scrum half may call a move.
+> The forward at the back of the maul acts effectively as a number 8 in a scrum (see [Plays off scrum](../../scrum#plays-off-scrum-or-maul)) so the scrum half may call a move.
 > 
 > **These moves are not part of the lineout call**
 
@@ -128,11 +128,11 @@ The jumper can also pass the ball down to another forward in the lineout to shif
 
 ## Flyby
 
-With the same setup as a **Cold** ball, the jumper can bring the ball to ground, but for another forward to peel off and carry (see [Plays off scrum](../set-piece/scrum.md#plays-off-scrum-or-maul)).
+With the same setup as a **Cold** ball, the jumper can bring the ball to ground, but for another forward to peel off and carry (see [Plays off scrum](../../scrum#plays-off-scrum-or-maul--new)).
 
 <img src="{{ '/assets/images/lineout/flyby.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-For simplicity, the ball carrier should expect to pass to the 9 (i.e. [♣️ **Clubs**](../scrum.md#️-clubs) or [♦️ **Diamonds**](../scrum.md#️-diamonds)), but other forwards in the lineout should follow the play and be ready to support the ball carrier.
+For simplicity, the ball carrier should expect to pass to the 9 (i.e. [♣️ **Clubs**](../../scrum#️-clubs) or [♦️ **Diamonds**](../../scrum#️-diamonds)), but other forwards in the lineout should follow the play and be ready to support the ball carrier.
 
 {: .note .fs-4 .lh-tight}
 > **Flyby** is a forward-led play, but requires the backs to be expecting it so they can be ready to run their lines off the ball carrier peeling off, so it's not strictly a **Hot** or **Cold** play.
