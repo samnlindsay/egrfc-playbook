@@ -43,7 +43,7 @@ _(formerly "**Box 1**")_
 <img src="{{ '/assets/images/attack/scotland-option2.gif' | relative_url }}" style="width: 100%; max-width:500px; height: auto; margin-left:20px;"/>
 </details>
 
-## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales &nbsp; <span class="badge-renamed">RENAMED</span>
 _(formerly "**Blocker**")_
 
 - 12 and 13 start off roughly level with each other outside 10
