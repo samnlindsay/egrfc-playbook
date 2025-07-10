@@ -6,7 +6,7 @@ parent: Set Piece
 nav_order: 33
 ---
 
-# Restarts
+# Restarts &nbsp; <span class="badge-new">NEW</span>
 
 We no longer split the pitch with forwards on one side, mirroring the opposition who we expect to do the same. Instead, we set up symmetrically with forwards and backs on both sides of the pitch.
 

@@ -7,6 +7,13 @@ nav_order: 32
 ---
 
 # Scrum
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## 3-3-2 structure
 
@@ -31,7 +38,7 @@ Typically, the ball will be played through the backs, with 8 and 7 expected to f
     <img src="{{ '/assets/images/scrum/scrum-backs-midfield.gif' | relative_url }}" style="width: 100%; max-width:500px; height: auto; margin-left:20px;"/>
 </details>
 
-## Plays off scrum (or maul)
+## Plays off scrum (or maul) &nbsp; <span class="badge-new">NEW</span>
 
 The ball is usually played away from a scrum or maul by the scrum half, where the backs can run a pre-planned [backs move](../attack/backs.md).
 

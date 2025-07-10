@@ -9,7 +9,7 @@ nav_order: 311
 # Attack  
 {: .no_toc }
 
-## Table of Contents
+# Table of Contents
 {: .no_toc .text-delta }
 
 - TOC
@@ -17,7 +17,7 @@ nav_order: 311
 
 This section covers our setup, how we call the throw and any movements in the lineout, and then how we play the ball away from the lineout.
 
-## Formations
+# Formations &nbsp; <span class="badge-new">NEW</span>
 
 <img src="{{ '/assets/images/lineout/formations.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
@@ -30,7 +30,7 @@ We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. 
 
 [^1]: Or back pod in the case of the 4-man version.
 
-## Calls
+# Calls &nbsp; <span class="badge-new">NEW</span>
 
 We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or **0** for the very front with no jump (i.e. "Matlow").
 
@@ -42,7 +42,7 @@ We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or
 > 
 > Initial 2-3-2 formation. Throw to the back (3) on **"Set"**. Throw to the middle pod on **"Bang"**.
 
-### Dummy jumps
+## Dummy jumps
 {: .no_toc }
 
 To mislead the defence, we use dummy jumps. Call two numbers in sequence — the first is the dummy, the second is the real target.
@@ -52,7 +52,7 @@ To mislead the defence, we use dummy jumps. Call two numbers in sequence — the
 > 
 > Dummy at the front (1), throw to middle (2). Similar to the old "RD", or "Canterbury 3".
 
-### Steps
+## Steps
 {: .no_toc}
 
 We can call slight forward ("**+**") or backward ("**--**") movements to adjust pod position and beat tight marking.
@@ -62,7 +62,7 @@ We can call slight forward ("**+**") or backward ("**--**") movements to adjust 
 > 
 > Middle pod steps forward to gain position. Can still jump on "Bang" if needed.
 
-### Call Examples
+## Call Examples
 
 Click one of the below calls to show a diagram.
 
@@ -88,7 +88,7 @@ Click one of the below calls to show a diagram.
 
 --- 
 
-## Plays
+# Plays
 
 <img src="{{ '/assets/images/lineout/plays.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
@@ -100,13 +100,13 @@ The final part of the lineout is how we play the ball once it has been secured. 
   - **Flyby** - bring the ball to ground for a maul before the forward receiver peels off to carry
 
 
-### Hot
+## Hot
 
 If the backs ask for a **Hot** ball, the jumper passes directly to the scrum half, who can play the ball as determined by the backs (e.g. a [Backs Move](../attack/backs.md) or [King or Queen](../attack/forwards.md#king---pod-off-9) off a short lineout).
 
 <img src="{{ '/assets/images/lineout/hot.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-### Cold
+## Cold
 
 If the backs ask for a **Cold** ball, the standard option is for the jumper to be brought down to ground, and the forwards to set up a maul on that spot.
 
@@ -126,7 +126,7 @@ The jumper can also pass the ball down to another forward in the lineout to shif
 </details>
 
 
-### Flyby
+## Flyby
 
 With the same setup as a **Cold** ball, the jumper can bring the ball to ground, but for another forward to peel off and carry (see [Plays off scrum](../set-piece/scrum.md#plays-off-scrum-or-maul)).
 
@@ -139,7 +139,7 @@ For simplicity, the ball carrier should expect to pass to the 9 (i.e. [♣️ **
 >
 > **Only run it when the backs have asked for it (or been told to expect it)**
 
-### Short lineouts
+## Short lineouts
 
 If **Hot** is called, a short lineout leaves 2 or 3 forwards to be used in the back line. 
 

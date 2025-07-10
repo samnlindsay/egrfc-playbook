@@ -27,20 +27,21 @@ A summary of the key words and phrases used in attacking play.
 |  **Take off** | Pass behind the pod to a supporting back |
 
 | :-------- | :---------- |
-|  **Joker** | A pick and go (x3) |
-|  **Ace** | A short punch off 9 (a very narrow King pod) | 
-|  **King** | A pod running off 9 |
-|  **Queen** | A pod running off 10 |
+|  [**Joker**](forwards.md#joker---pick-and-go) | A pick and go (x3) |
+|  [**Ace**](forwards.md#ace---short-punch-off-9) | A short punch off 9 (a very narrow King pod) | 
+|  [**King**](forwards.md#king---pod-off-9) | A pod running off 9 |
+|  [**Queen**](forwards.md#queen---pod-off-10) | A pod running off 10 |
 
 
 ### [Backs moves](backs.md)
 
 | :-------- | :---------- |
-| **Box** (1 or 2) | Blind side winger offering an out-the-back option behind a hard running center. Run off 10 (Box 1) or 12 (Box 2) |
-| **Blocker** | 13 running hard and 12 out the back |
-| **France** | 10 and the blind winger coming across to take the ball from 12, behind 13 |
-| <span style="color: red">**TBC 1**</span> | 10-12-10 ("Johnny Sexton Loop") behind 13, with the blind side winger coming across as a second option off 12 |
-| <span style="color: red">**TBC 2**</span> | 10 miss pass to 13, passing back inside to 12, or the blind side winger cutting across |
+| 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [**Wales**](backs.md#-wales) | 10 has passing option to 13 running hard and 12 out the back |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [**Scotland**](backs.md#-scotland) | Blind side winger offering 10 an out-the-back option behind a hard running centre. |
+| 🇮🇹 [**Italy**](backs.md#-italy) | Same as Scotland, but run off 12, with 13 on the hard line. |
+| 🇫🇷 [**France**](backs.md#-france) | 10 and the blind winger coming across to take the ball from 12, behind 13 |
+| 🇪🇸 [**Spain**](backs.md#-spain--new) | 10-12-10 ("Johnny Sexton Loop") behind 13, with the blind side winger coming across as a second option off 12 |
+| 🇦🇷 [**Argentina**](backs.md#-argentina--new) | 10 miss pass to 13, passing back inside to 12, or the blind side winger cutting across |
 
 ### Open play
 

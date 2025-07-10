@@ -15,7 +15,7 @@ nav_order: 11
 - TOC
 {:toc}
 
-## Pod structure
+## Pod structure &nbsp; <span class="badge-new">NEW</span>
 
 Each forward pod consists of 3 players in an L shape:
 
@@ -66,7 +66,8 @@ Identical shape as a **King** but set deeper and wider, receiving the ball from 
 
 <img src="{{ '/assets/images/attack/queen.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
-### **Joker** - pick and go
+### **Joker** - pick and go &nbsp; <span class="badge-renamed">RENAMED</span>
+_(formerly "**Punga**")_
 
 - 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
 - Ball carrier picks up with 2 teammates ready to support
@@ -75,7 +76,8 @@ Identical shape as a **King** but set deeper and wider, receiving the ball from 
 
 <img src="{{ '/assets/images/attack/punga.png' | relative_url }}" style="width: 80%; height: auto;"/>
 
-### **Ace** - short punch off 9
+### **Ace** - short punch off 9 &nbsp; <span class="badge-renamed">RENAMED</span>
+_(formerly "**Rhino**")_
 
 - 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
 - 9 pops the ball to the **Lead** runner

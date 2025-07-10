@@ -29,7 +29,7 @@ In recent years, we’ve mainly used 3 static setups:
   
 These are predictable and easy to counter. Opponents often use 5-man lineouts or quick throws to avoid or beat them (e.g. to the back, off the top, or with a shift drive).
 
-## Dynamic defences
+## Dynamic defences &nbsp; <span class="badge-new">NEW</span>
 
 Stronger defence involves coordinated, reactive movement by multiple players. This demands training, quick decisions, and clear understanding of roles:
 
