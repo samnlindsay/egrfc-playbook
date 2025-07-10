@@ -54,6 +54,29 @@ Pods can be placed in different areas of the field relative to the previous ruck
 
 <img src="{{ '/assets/images/attack/podplays.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
 
+### **Joker** - pick and go &nbsp; <span class="badge-renamed">RENAMED</span>
+_(formerly "**Punga**")_
+
+- 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
+- Ball carrier picks up with 2 teammates ready to support
+- Aim for B defender’s outside shoulder
+- Repeat x 3 (same direction)
+
+<img src="{{ '/assets/images/attack/joker.png' | relative_url }}" style="width: 80%; height: auto;"/>
+
+### **Ace** - short punch off 9 &nbsp; <span class="badge-renamed">RENAMED</span>
+_(formerly "**Rhino**")_
+
+
+- 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
+- 9 pops the ball to the **Lead** runner
+- Aim for B defender’s outside shoulder
+- Repeat x 3 (same direction)
+- Expect a “Release” on the 3rd phase. **Lead** runner pulls the ball back before contact
+
+<img src="{{ '/assets/images/attack/ace.png' | relative_url }}" style="width: 80%; height: auto;"/>
+
+
 ### **King** - pod off 9
 
 **Lead** takes the ball at pace off 9, aiming outside the C defender.
@@ -65,24 +88,3 @@ Pods can be placed in different areas of the field relative to the previous ruck
 Identical shape as a **King** but set deeper and wider, receiving the ball from 10 and looking to find a gap in the defence, choosing from one of the above options.
 
 <img src="{{ '/assets/images/attack/queen.png' | relative_url }}" style="width: 80%; height: auto;"/>
-
-### **Ace** - short punch off 9 &nbsp; <span class="badge-renamed">RENAMED</span>
-_(formerly "**Rhino**")_
-
-- 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
-- 9 pops the ball to the **Lead** runner
-- Aim for B defender’s outside shoulder
-- Repeat x 3 (same direction)
-- Expect a “Release” on the 3rd phase. **Lead** runner pulls the ball back before contact
-
-<img src="{{ '/assets/images/attack/rhino.png' | relative_url }}" style="width: 80%; height: auto;"/>
-
-### **Joker** - pick and go &nbsp; <span class="badge-renamed">RENAMED</span>
-_(formerly "**Punga**")_
-
-- 3 players in the ruck, 3 on their feet (2-pod available elsewhere)
-- Ball carrier picks up with 2 teammates ready to support
-- Aim for B defender’s outside shoulder
-- Repeat x 3 (same direction)
-
-<img src="{{ '/assets/images/attack/punga.png' | relative_url }}" style="width: 80%; height: auto;"/>
