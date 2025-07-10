@@ -94,7 +94,7 @@ The same as Scotland but wider in the back line, with 12 as the playmaker
 - 12 pulls the ball back to 10 who straightens outside 13
 - 15 runs out-to-in and 10 pulls the ball behind him to the blind side winger
 
-<img src="{{ '/assets/images/attack/France.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
+<img src="{{ '/assets/images/attack/france.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
 
 <details>
 <summary>Full sequence</summary>
