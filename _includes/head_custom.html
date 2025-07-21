@@ -1,3 +1,5 @@
+{% unless jekyll.environment == "dev" %}
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8ND2K6BT3E"></script>
 <script>
@@ -7,3 +9,5 @@
 
     gtag('config', 'G-8ND2K6BT3E');
 </script>
+
+{% endunless %}

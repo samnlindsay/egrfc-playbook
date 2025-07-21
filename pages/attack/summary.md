@@ -35,10 +35,10 @@ A summary of the key words and phrases used in attacking play.
 
 ### [Backs moves](../backs)
 
-| :-------- | :---------- |
-| 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [**Wales**](../backs/#-wales--renamed) | 10 has passing option to 13 running hard and 12 out the back |
-| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [**Scotland**](../backs/#-scotland--renamed) | Blind side winger offering 10 an out-the-back option behind a hard running centre. |
-| 🇮🇹 [**Italy**](../backs/#-italy--renamed) | Same as Scotland, but run off 12, with 13 on the hard line. |
+| :-------------- | :---------- |
+| 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [**Wales**](../backs/#-wales--renamed)<span style="font-size:1rem; opacity:0.5;"><br>_(Blocker)_</span>| 10 has passing option to 13 running hard and 12 out the back |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [**Scotland**](../backs/#-scotland--renamed) <span style="font-size:1rem; opacity:0.5;"><br>_(Box 1)_</span> | Blind side winger offering 10 an out-the-back option behind a hard running centre. |
+| 🇮🇹 [**Italy**](../backs/#-italy--renamed) <span style="font-size:1rem; opacity:0.5;"><br>_(Box 2)_</span> | Same as Scotland, but run off 12, with 13 on the hard line. |
 | 🇫🇷 [**France**](../backs/#-france) | 10 and the blind winger coming across to take the ball from 12, behind 13 |
 | 🇪🇸 [**Spain**](../backs/#-spain--new) | 10-12-10 ("Johnny Sexton Loop") behind 13, with the blind side winger coming across as a second option off 12 |
 | 🇦🇷 [**Argentina**](../backs/#-argentina--new) | 10 miss pass to 13, passing back inside to 12, or the blind side winger cutting across |
@@ -46,8 +46,8 @@ A summary of the key words and phrases used in attacking play.
 ### Open play
 
 | :-------- | :---------- |
-|  <span style="color: red">**Ace** (CHANGE)</span> | Box kick from 9 |
-|  **Jack** | Clearance kick from 10 |
+|  **Stick** <span style="font-size:1rem; opacity:0.5;">_(formerly Ace)_</span> | Box kick from 9 |
+|  **Twist** <span style="font-size:1rem; opacity:0.5;">_(formerly Jack)_</span>| Clearance kick from 10 |
 |  **Ireland** | Cross-field kick |
 |  **Flash** | Get ball directly to the 10 (space out wide) |
 |  **Tango** | Change direction of play |
