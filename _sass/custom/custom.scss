@@ -355,8 +355,8 @@ summary {
 }
 
 // Add spacing for nav items with order 100+
-.site-nav > .nav-list>.nav-list-item:last-child {
+.site-nav > .nav-list > .nav-list-item:last-child {
     margin-top: 2rem !important;
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
     padding-top: 1rem !important;
 }
