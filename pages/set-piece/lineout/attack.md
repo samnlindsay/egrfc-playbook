@@ -37,7 +37,9 @@ We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or
 <!-- <img src="{{ '/assets/images/lineout/target-jumper.png' | relative_url }}" style="width: 100%; height: auto;"/> -->
 <img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-{: .example .fs-4 .lh-tight}
+{: .blue-title .fs-4 .lh-tight}
+> **Example**
+> 
 > **"7-man Squeeze 3"**
 > 
 > Initial 2-3-2 formation. Throw to the back (3) on **"Set"**. Throw to the middle pod on **"Bang"**.
@@ -47,7 +49,9 @@ We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or
 
 To mislead the defence, we use dummy jumps. Call two numbers in sequence — the first is the dummy, the second is the real target.
 
-{: .example .fs-4 .lh-tight}
+{: .blue-title .fs-4 .lh-tight}
+> **Example**
+> 
 > **"1 2"**
 > 
 > Dummy at the front (1), throw to middle (2). Similar to the old "RD", or "Canterbury 3".
@@ -57,7 +61,9 @@ To mislead the defence, we use dummy jumps. Call two numbers in sequence — the
 
 We can call slight forward ("**+**") or backward ("**--**") movements to adjust pod position and beat tight marking.
 
-{: .example .fs-4 .lh-tight}
+{: .blue-title .fs-4 .lh-tight}
+> **Example**
+> 
 > **"2+"**
 > 
 > Middle pod steps forward to gain position. Can still jump on "Bang" if needed.
@@ -112,7 +118,9 @@ If the backs ask for a **Cold** ball, the standard option is for the jumper to b
 
 <img src="{{ '/assets/images/lineout/cold.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-{: .note .fs-4 .lh-tight}
+{: .red-title .fs-4 .lh-tight}
+> **Note**
+> 
 > The forward at the back of the maul acts effectively as a number 8 in a scrum (see [Plays off scrum](../../scrum#plays-off-scrum-or-maul)) so the scrum half may call a move.
 > 
 > **These moves are not part of the lineout call**
@@ -134,7 +142,9 @@ With the same setup as a **Cold** ball, the jumper can bring the ball to ground,
 
 For simplicity, the ball carrier should expect to pass to the 9 (i.e. [♣️ **Clubs**](../../scrum#️-clubs) or [♦️ **Diamonds**](../../scrum#️-diamonds)), but other forwards in the lineout should follow the play and be ready to support the ball carrier.
 
-{: .note .fs-4 .lh-tight}
+{: .red-title .fs-4 .lh-tight}
+> **Note**
+> 
 > **Flyby** is a forward-led play, but requires the backs to be expecting it so they can be ready to run their lines off the ball carrier peeling off, so it's not strictly a **Hot** or **Cold** play.
 >
 > **Only run it when the backs have asked for it (or been told to expect it)**

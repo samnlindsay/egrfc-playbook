@@ -34,17 +34,10 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 callouts:
-  attack:
-    title: Attack
+  green:
     color: green
-  defence:
-    title: Defence
+  red:
     color: red
-  info:
+  blue:
     color: blue
-  example:
-    color: blue
-    title: Example
-  note:
-    title: Note
-    color: red
+  

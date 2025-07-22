@@ -353,3 +353,10 @@ summary {
         box-shadow: 0 0 0 rgba(230, 57, 70, 0.4);
     }
 }
+
+// Add spacing for nav items with order 100+
+.site-nav > .nav-list>.nav-list-item:last-child {
+    margin-top: 2rem !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    padding-top: 1rem !important;
+}
