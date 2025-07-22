@@ -17,7 +17,7 @@ nav_order: 31
 
 Both teams have 10-20 attacking lineouts per game, giving them the opportunity to set up an attack from a controlled platform.
 
-{: .red-title .fs-4 .lh-tight}
+{: .green-title .fs-4 .lh-tight}
 > **Attack**
 > 
 > On our own ball, everything we do should be focused on these two questions:
@@ -26,7 +26,7 @@ Both teams have 10-20 attacking lineouts per game, giving them the opportunity t
 > 2. How do we **break the gain line** and create a scoring opportunity?
 
 
-{: .blue-title .fs-4 .lh-tight}
+{: .red-title .fs-4 .lh-tight}
 > **Defence**
 > 
 >On the opposition ball, we do the opposite:
