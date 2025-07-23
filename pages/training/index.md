@@ -109,3 +109,13 @@ nav_order: 100
 <summary>Slips vs Turns</summary>
 <img src="{{ '/assets/images/lineout/drills/slips_turns.png' | relative_url }}" style="width:100%; height: auto;"/>
 </details>
+
+
+## Videos
+
+There are lots of videos available where professionals clearly demonstrate the key points above. Here is a selection of links to some good examples:
+
+- [**Front-on jumping** ("Split the line") - _The Lineout Lab_](https://youtu.be/JakeH0-ebSA?si=s2DMARiXcdv6NSfW&t=162)
+- [**Side-on jumping** - _The Lineout Lab_](https://www.youtube.com/watch?v=-l9vrZNABU8&t=78s)
+- [**Lineout Masterclass** - _Victor Matfield_](https://www.youtube.com/watch?v=UE_o154J3YE)
+- [**Lineout footwork** (colour drill @ Worcester Warriors)](https://www.youtube.com/watch?v=CIgr4f3qgVs)
