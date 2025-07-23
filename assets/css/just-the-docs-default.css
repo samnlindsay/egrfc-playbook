@@ -7619,23 +7619,14 @@ div.opaque {
   background-color: #fff;
 }
 
-p.attack, blockquote.attack {
+p.green, blockquote.green {
   background: rgba(65, 214, 147, 0.2);
   border-left: 4px solid #026e57;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
-p.attack::before, blockquote.attack::before {
-  color: #026e57;
-  content: "Attack";
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-p.attack > .attack-title, blockquote.attack > .attack-title {
+p.green > .green-title, blockquote.green > .green-title {
   color: #026e57;
   display: block;
   font-weight: bold;
@@ -7644,14 +7635,14 @@ p.attack > .attack-title, blockquote.attack > .attack-title {
   padding-bottom: 0.125rem;
 }
 
-p.attack-title, blockquote.attack-title {
+p.green-title, blockquote.green-title {
   background: rgba(65, 214, 147, 0.2);
   border-left: 4px solid #026e57;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
-p.attack-title > p:first-child, blockquote.attack-title > p:first-child {
+p.green-title > p:first-child, blockquote.green-title > p:first-child {
   margin-top: 0;
   margin-bottom: 0;
   color: #026e57;
@@ -7662,45 +7653,36 @@ p.attack-title > p:first-child, blockquote.attack-title > p:first-child {
   padding-bottom: 0.125rem;
 }
 
-blockquote.attack {
+blockquote.green {
   margin-left: 0;
   margin-right: 0;
 }
-blockquote.attack > p:first-child {
+blockquote.green > p:first-child {
   margin-top: 0;
 }
-blockquote.attack > p:last-child {
+blockquote.green > p:last-child {
   margin-bottom: 0;
 }
 
-blockquote.attack-title {
+blockquote.green-title {
   margin-left: 0;
   margin-right: 0;
 }
-blockquote.attack-title > p:nth-child(2) {
+blockquote.green-title > p:nth-child(2) {
   margin-top: 0;
 }
-blockquote.attack-title > p:last-child {
+blockquote.green-title > p:last-child {
   margin-bottom: 0;
 }
 
-p.defence, blockquote.defence {
+p.red, blockquote.red {
   background: rgba(247, 126, 126, 0.2);
   border-left: 4px solid #dd2e2e;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
-p.defence::before, blockquote.defence::before {
-  color: #dd2e2e;
-  content: "Defence";
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-p.defence > .defence-title, blockquote.defence > .defence-title {
+p.red > .red-title, blockquote.red > .red-title {
   color: #dd2e2e;
   display: block;
   font-weight: bold;
@@ -7709,14 +7691,14 @@ p.defence > .defence-title, blockquote.defence > .defence-title {
   padding-bottom: 0.125rem;
 }
 
-p.defence-title, blockquote.defence-title {
+p.red-title, blockquote.red-title {
   background: rgba(247, 126, 126, 0.2);
   border-left: 4px solid #dd2e2e;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
-p.defence-title > p:first-child, blockquote.defence-title > p:first-child {
+p.red-title > p:first-child, blockquote.red-title > p:first-child {
   margin-top: 0;
   margin-bottom: 0;
   color: #dd2e2e;
@@ -7727,36 +7709,36 @@ p.defence-title > p:first-child, blockquote.defence-title > p:first-child {
   padding-bottom: 0.125rem;
 }
 
-blockquote.defence {
+blockquote.red {
   margin-left: 0;
   margin-right: 0;
 }
-blockquote.defence > p:first-child {
+blockquote.red > p:first-child {
   margin-top: 0;
 }
-blockquote.defence > p:last-child {
+blockquote.red > p:last-child {
   margin-bottom: 0;
 }
 
-blockquote.defence-title {
+blockquote.red-title {
   margin-left: 0;
   margin-right: 0;
 }
-blockquote.defence-title > p:nth-child(2) {
+blockquote.red-title > p:nth-child(2) {
   margin-top: 0;
 }
-blockquote.defence-title > p:last-child {
+blockquote.red-title > p:last-child {
   margin-bottom: 0;
 }
 
-p.info, blockquote.info {
+p.blue, blockquote.blue {
   background: rgba(44, 132, 250, 0.2);
   border-left: 4px solid #183385;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
-p.info > .info-title, blockquote.info > .info-title {
+p.blue > .blue-title, blockquote.blue > .blue-title {
   color: #183385;
   display: block;
   font-weight: bold;
@@ -7765,14 +7747,14 @@ p.info > .info-title, blockquote.info > .info-title {
   padding-bottom: 0.125rem;
 }
 
-p.info-title, blockquote.info-title {
+p.blue-title, blockquote.blue-title {
   background: rgba(44, 132, 250, 0.2);
   border-left: 4px solid #183385;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
-p.info-title > p:first-child, blockquote.info-title > p:first-child {
+p.blue-title > p:first-child, blockquote.blue-title > p:first-child {
   margin-top: 0;
   margin-bottom: 0;
   color: #183385;
@@ -7783,155 +7765,25 @@ p.info-title > p:first-child, blockquote.info-title > p:first-child {
   padding-bottom: 0.125rem;
 }
 
-blockquote.info {
+blockquote.blue {
   margin-left: 0;
   margin-right: 0;
 }
-blockquote.info > p:first-child {
+blockquote.blue > p:first-child {
   margin-top: 0;
 }
-blockquote.info > p:last-child {
+blockquote.blue > p:last-child {
   margin-bottom: 0;
 }
 
-blockquote.info-title {
+blockquote.blue-title {
   margin-left: 0;
   margin-right: 0;
 }
-blockquote.info-title > p:nth-child(2) {
+blockquote.blue-title > p:nth-child(2) {
   margin-top: 0;
 }
-blockquote.info-title > p:last-child {
-  margin-bottom: 0;
-}
-
-p.example, blockquote.example {
-  background: rgba(44, 132, 250, 0.2);
-  border-left: 4px solid #183385;
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
-  padding: 0.8rem;
-}
-p.example::before, blockquote.example::before {
-  color: #183385;
-  content: "Example";
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-p.example > .example-title, blockquote.example > .example-title {
-  color: #183385;
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-
-p.example-title, blockquote.example-title {
-  background: rgba(44, 132, 250, 0.2);
-  border-left: 4px solid #183385;
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
-  padding: 0.8rem;
-}
-p.example-title > p:first-child, blockquote.example-title > p:first-child {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #183385;
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-
-blockquote.example {
-  margin-left: 0;
-  margin-right: 0;
-}
-blockquote.example > p:first-child {
-  margin-top: 0;
-}
-blockquote.example > p:last-child {
-  margin-bottom: 0;
-}
-
-blockquote.example-title {
-  margin-left: 0;
-  margin-right: 0;
-}
-blockquote.example-title > p:nth-child(2) {
-  margin-top: 0;
-}
-blockquote.example-title > p:last-child {
-  margin-bottom: 0;
-}
-
-p.note, blockquote.note {
-  background: rgba(247, 126, 126, 0.2);
-  border-left: 4px solid #dd2e2e;
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
-  padding: 0.8rem;
-}
-p.note::before, blockquote.note::before {
-  color: #dd2e2e;
-  content: "Note";
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-p.note > .note-title, blockquote.note > .note-title {
-  color: #dd2e2e;
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-
-p.note-title, blockquote.note-title {
-  background: rgba(247, 126, 126, 0.2);
-  border-left: 4px solid #dd2e2e;
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
-  padding: 0.8rem;
-}
-p.note-title > p:first-child, blockquote.note-title > p:first-child {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #dd2e2e;
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
-}
-
-blockquote.note {
-  margin-left: 0;
-  margin-right: 0;
-}
-blockquote.note > p:first-child {
-  margin-top: 0;
-}
-blockquote.note > p:last-child {
-  margin-bottom: 0;
-}
-
-blockquote.note-title {
-  margin-left: 0;
-  margin-right: 0;
-}
-blockquote.note-title > p:nth-child(2) {
-  margin-top: 0;
-}
-blockquote.note-title > p:last-child {
+blockquote.blue-title > p:last-child {
   margin-bottom: 0;
 }
 
@@ -8251,5 +8103,16 @@ summary {
     box-shadow: 0 0 0 rgba(230, 57, 70, 0.4);
   }
 }
+.side-bar .nav-list-item[data-nav-order="100"] {
+  margin-top: 2rem !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
+  padding-top: 1rem !important;
+}
 
 /*# sourceMappingURL=just-the-docs-default.css.map */
+
+.side-bar .nav-list-item[data-nav-order="100"] {
+  margin-top: 2rem !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
+  padding-top: 1rem !important;
+}

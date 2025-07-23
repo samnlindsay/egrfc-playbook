@@ -354,10 +354,8 @@ summary {
     }
 }
 
-.side-bar .nav-list-item a[title*="Training"],
-.side-bar .nav-list-item a:contains("Training Resources") {
+.side-bar .nav-list-item[data-nav-order="100"] {
     margin-top: 2rem !important;
     border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
     padding-top: 1rem !important;
-    display: block !important;
 }

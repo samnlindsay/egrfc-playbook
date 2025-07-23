@@ -20,7 +20,7 @@ nav_order: 100
 
 ### Throwers
 
-{: .blue-title .lh-tight}
+{: .blue .lh-tight}
 > **Grip and Finish:**
 >
 > <div style="float: right; width: 40%; margin-left: 20px;"><img src="{{ '/assets/images/lineout/throw_grip.png' | relative_url }}" style="width: 100%; height: auto;"/></div>

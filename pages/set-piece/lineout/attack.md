@@ -37,7 +37,7 @@ We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or
 <!-- <img src="{{ '/assets/images/lineout/target-jumper.png' | relative_url }}" style="width: 100%; height: auto;"/> -->
 <img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
-{: .blue-title .fs-4 .lh-tight}
+{: .blue .fs-4 .lh-tight}
 > **Example**
 > 
 > **"7-man Squeeze 3"**
@@ -49,7 +49,7 @@ We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or
 
 To mislead the defence, we use dummy jumps. Call two numbers in sequence — the first is the dummy, the second is the real target.
 
-{: .blue-title .fs-4 .lh-tight}
+{: .blue .fs-4 .lh-tight}
 > **Example**
 > 
 > **"1 2"**
@@ -61,7 +61,7 @@ To mislead the defence, we use dummy jumps. Call two numbers in sequence — the
 
 We can call slight forward ("**+**") or backward ("**--**") movements to adjust pod position and beat tight marking.
 
-{: .blue-title .fs-4 .lh-tight}
+{: .blue .fs-4 .lh-tight}
 > **Example**
 > 
 > **"2+"**
