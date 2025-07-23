@@ -354,9 +354,75 @@ summary {
     }
 }
 
-// Add spacing for nav items with order 100+
 .side-bar > .site-nav > .nav-list > .nav-list-item:last-child {
     margin-top: 2rem !important;
     border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
     padding-top: 1rem !important;
+}
+
+
+// Video and callout container layout
+.video-callout-container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    margin: 1rem 0;
+
+    @media (max-width: 399px) {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+.video-column {
+    flex: 0 0 auto; // Don't grow or shrink, size based on content
+
+    video {
+        width: auto; // Let width adjust based on aspect ratio
+        height: 300px; // Fixed height
+        object-fit: contain;
+        border-radius: 0.25rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        background-color: #000; // Black background for letterboxing
+        margin-top: 1rem;
+    }
+
+    @media (max-width: 399px) {
+        flex: 1;
+        margin-bottom: 1rem;
+
+        video {
+            width: 100%; // Full width on mobile
+            height: 300px; // Fixed height on mobile
+        }
+    }
+}
+
+.callouts-column {
+    flex: 1; // Take up all remaining space
+
+    @media (max-width: 399px) {
+        width: 100%; // Force full width on mobile
+        flex: none; // Remove flex behavior on mobile
+    }
+
+    .blue-title,
+    .red-title,
+    .green-title {
+        margin-bottom: 1rem;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+
+        @media (max-width: 399px) {
+            width: 100%; // Ensure callouts themselves are full width
+
+            blockquote {
+                width: 100%;
+                margin-left: 0;
+                margin-right: 0;
+            }
+        }
+    }
 }
