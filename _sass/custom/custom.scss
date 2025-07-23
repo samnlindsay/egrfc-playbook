@@ -354,7 +354,8 @@ summary {
     }
 }
 
-.side-bar .nav-list-item[data-nav-order="100"] {
+// Add spacing for nav items with order 100+
+.side-bar > .site-nav > .nav-list > .nav-list-item:last-child {
     margin-top: 2rem !important;
     border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
     padding-top: 1rem !important;
