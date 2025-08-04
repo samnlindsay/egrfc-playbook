@@ -133,6 +133,12 @@ The jumper can also pass the ball down to another forward in the lineout to shif
 <img src="{{ '/assets/images/lineout/transfer.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
 </details>
 
+### Maul setup
+
+A maul (like a scrum) requires the whole pack to work together and push in the same direction. To make this simple, and to keep options open, we want to wheel the maul by focussing our drive on the back lifter, opening up the space for the scrum half to pass to the backs, or to recycle or carry the ball.
+
+<img src="{{ '/assets/images/lineout/maul.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
 
 ## Flyby
 
