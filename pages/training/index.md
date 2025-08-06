@@ -109,7 +109,10 @@ nav_order: 100
 <summary>Slips vs Turns</summary>
 <img src="{{ '/assets/images/lineout/drills/slips_turns.png' | relative_url }}" style="width:100%; height: auto;"/>
 </details>
-
+<details>
+<summary>Maul Setup - Catch & Set</summary>
+<img src="{{ '/assets/images/lineout/drills/catch_set.png' | relative_url }}" style="width:100%; height: auto;"/>
+</details>
 
 ## Videos
 
@@ -119,3 +122,4 @@ There are lots of videos available where professionals clearly demonstrate the k
 - [**Side-on jumping** - _The Lineout Lab_](https://www.youtube.com/watch?v=-l9vrZNABU8&t=78s)
 - [**Lineout Masterclass** - _Victor Matfield_](https://www.youtube.com/watch?v=UE_o154J3YE)
 - [**Lineout footwork** (colour drill @ Worcester Warriors)](https://www.youtube.com/watch?v=CIgr4f3qgVs)
+- [**How to Hooker Throw straight in a Lineout** - _Dan Richmond_](https://www.youtube.com/watch?v=nFNurJVIUD8)

@@ -115,8 +115,9 @@ The same as Scotland but wider in the back line, with 12 as the playmaker
 
 ## 🇦🇷 Argentina &nbsp; <span class="badge-new">NEW</span>
 
-- 10 gives a miss pass to 13
-- 13 pops it back inside to 12 or...
-- 13 pulls it back inside to the approaching blind side winger cutting across
+- 10 gives a miss pass to 13, who has 3 passing options:
+  - Inside ball to 12
+  - Full back running a hard line
+  - Blind side winger running wide behind the full back
 
 <img src="{{ '/assets/images/attack/argentina.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
