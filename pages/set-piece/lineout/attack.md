@@ -56,6 +56,11 @@ To mislead the defence, we use dummy jumps. Call two numbers in sequence — the
 > 
 > Dummy at the front (1), throw to middle (2). Similar to the old "RD", or "Canterbury 3".
 
+<details>
+<summary>5-man 1 <em>[options]</em></summary>
+<img src="{{ '/assets/images/lineout/5man-1X.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+</details>
+
 ## Steps
 {: .no_toc}
 
@@ -71,11 +76,6 @@ We can call slight forward ("**+**") or backward ("**--**") movements to adjust 
 ## Call Examples
 
 Click one of the below calls to show a diagram.
-
-<details>
-<summary><b>5-man</b> (Squeeze) <b>1 2</b></summary>
-<img src="{{ '/assets/images/lineout/5man-12.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
-</details>
 
 <details>
 <summary><b>7-man</b> (Squeeze) <b>1 1</b></summary>
