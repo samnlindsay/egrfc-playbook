@@ -73,7 +73,7 @@ We can call slight forward ("**+**") or backward ("**--**") movements to adjust 
 > 
 > Middle pod steps forward to gain position. Can still jump on "Bang" if needed.
 
-## Call Examples
+## Call examples
 
 Click one of the below calls to show a diagram.
 
@@ -90,6 +90,26 @@ Click one of the below calls to show a diagram.
 <details>
 <summary><b>7-man</b> (Squeeze) <b>1 2 0</b></summary>
 <img src="{{ '/assets/images/lineout/7man-120.png' | relative_url }}" style="width: 100%; max-width:500px; height: auto;"/>
+</details>
+
+## 4-man lineouts
+
+Calls for a 4-man lineout are much simpler and less structured. 
+
+<img src="{{ '/assets/images/lineout/4-man.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
+### 4-man animations
+<details>
+<summary><b>Bang</b></summary>
+<img src="{{ '/assets/images/lineout/4-man-bang.gif' | relative_url }}" style="width: 100%; max-width:400px; height: auto; margin-left:20px"/>
+</details>
+<details>
+<summary><b>Yes</b></summary>
+<img src="{{ '/assets/images/lineout/4-man-yes.gif' | relative_url }}" style="width: 100%; max-width:400px; height: auto; margin-left:20px"/>
+</details>
+<details>
+<summary><b>No</b></summary>
+<img src="{{ '/assets/images/lineout/4-man-no.gif' | relative_url }}" style="width: 100%; max-width:400px; height: auto; margin-left:20px"/>
 </details>
 
 --- 
