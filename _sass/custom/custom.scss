@@ -354,7 +354,7 @@ summary {
     }
 }
 
-.side-bar > .site-nav > .nav-list > .nav-list-item:last-child {
+.side-bar > .site-nav > .nav-list > .nav-list-item:nth-last-child(2) {
     margin-top: 2rem !important;
     border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
     padding-top: 1rem !important;
