@@ -41,3 +41,5 @@ callouts:
   blue:
     color: blue
   
+  include:
+  - _headers
