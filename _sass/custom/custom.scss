@@ -31,10 +31,21 @@ body {
 
 .auth-modal .card {
     font-family: 'Lato', sans-serif;
+    width: max-content;
 }
 
 .auth-modal h3 {
     font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.auth-modal input {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 /* Ensure strong/em also inherit fonts correctly */
