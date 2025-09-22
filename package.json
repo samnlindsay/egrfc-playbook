@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/samnlindsay/egrfc-playbook#readme",
   "dependencies": {
-    "google-spreadsheet": "^5.0.2"
+    "google-spreadsheet": "^5.0.2",
+    "googleapis": "^160.0.0"
   }
 }
