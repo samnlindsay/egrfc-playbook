@@ -145,15 +145,21 @@
     modal.className = "auth-modal";
     modal.innerHTML = `
       <div class="card" role="dialog" aria-modal="true">
-        <h3>EGRFC Playbook — Members</h3>
-        <label style="display:block;margin-top:0.5rem">Username</label>
-        <input id="auth-user" type="text" autocomplete="username" />
-        <label style="display:block;margin-top:0.5rem">Password</label>
-        <input id="auth-pass" type="password" autocomplete="current-password" />
+        <h3>EGRFC Playbook</h3>
+        <form>
+        <div class="mb-3">
+        <label for="auth-user" class="form-label">Username</label>
+        <input id="auth-user" class="form-control" style="width: 100%;" autocomplete="username" />
+        </div>
+        <div class="mb-3">
+        <label for="auth-pass" class="form-label">Password</label>
+        <input id="auth-pass" type="password" class="form-control" autocomplete="current-password" />
+        </div>
         <div style="margin-top:.6rem">
           <button id="auth-submit">Log in</button>
         </div>
         <div class="auth-error" style="color:#b00020;display:none;margin-top:.5rem">Invalid credentials</div>
+        </form>
       </div>`;
     document.body.appendChild(modal);
 
