@@ -129,4 +129,19 @@
   // show modal and keep page locked (if you use the site-locked technique)
   document.documentElement.classList.add("site-locked");
   buildModal();
+
+  function logLogin(username) {
+    fetch("/.netlify/functions/log-login", {
+      method: "POST",
+      body: JSON.stringify({ username, page: window.location.pathname }),
+      headers: { "Content-Type": "application/json" },
+    });
+  }
+
+  // Example usage after successful login
+  if (password === correctPassword) {
+    logLogin(username);
+    window.location.href = "home.html";
+  }
+  
 })();
