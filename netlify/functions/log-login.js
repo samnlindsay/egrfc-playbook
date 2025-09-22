@@ -1,33 +1,53 @@
-const { GoogleSpreadsheet } = require("google-spreadsheet");
+// netlify/functions/log-login.js
+const { google } = require("googleapis");
 
-const docId = process.env.GOOGLE_SHEET_ID; // Sheet ID
-const creds = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT); // JSON key
+// Load credentials from Netlify environment variables
+// You can store the JSON as a single env variable, e.g. GOOGLE_SERVICE_ACCOUNT_JSON
+const SERVICE_ACCOUNT_JSON = process.env.GOOGLE_SERVICE_ACCOUNT;
+const SHEET_ID = process.env.GOOGLE_SHEET_ID; // your sheet ID
 
-exports.handler = async (event, context) => {
+exports.handler = async function (event, context) {
   if (event.httpMethod !== "POST") {
     return { statusCode: 405, body: "Method Not Allowed" };
   }
 
+  let data;
   try {
-    const data = JSON.parse(event.body);
-    const { username, page } = data;
+    data = JSON.parse(event.body);
+  } catch (err) {
+    return { statusCode: 400, body: "Invalid JSON" };
+  }
 
-    const doc = new GoogleSpreadsheet(docId);
-    await doc.useServiceAccountAuth(creds);
-    await doc.loadInfo();
+  // Parse service account credentials
+  const serviceAccount = JSON.parse(SERVICE_ACCOUNT_JSON);
 
-    const sheet = doc.sheetsByTitle["Logins"];
+  // Auth with Google Sheets
+  const auth = new google.auth.GoogleAuth({
+    credentials: serviceAccount,
+    scopes: ["https://www.googleapis.com/auth/spreadsheets"],
+  });
 
-    await sheet.addRow({
-      Timestamp: new Date().toISOString(),
-      Username: username,
-      Page: page,
-      IP: event.headers["x-nf-client-connection-ip"] || "unknown",
+  const sheets = google.sheets({ version: "v4", auth });
+
+  const values = [
+    [
+      data.timestamp || new Date().toISOString(),
+      data.username || "(unknown)",
+      data.success ? "SUCCESS" : "FAIL",
+      data.page || "",
+    ],
+  ];
+
+  try {
+    await sheets.spreadsheets.values.append({
+      spreadsheetId: SHEET_ID,
+      range: "Logins!A:D", // change sheet name or range if needed
+      valueInputOption: "USER_ENTERED",
+      resource: { values },
     });
-
-    return { statusCode: 200, body: "Logged" };
+    return { statusCode: 200, body: "Logged successfully" };
   } catch (err) {
     console.error(err);
-    return { statusCode: 500, body: "Error logging login" };
+    return { statusCode: 500, body: "Failed to write to Google Sheet" };
   }
 };

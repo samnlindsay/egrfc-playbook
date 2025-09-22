@@ -1,52 +1,27 @@
 // assets/js/auth.js
-// Per-user client auth + analytics
-// NOTE: this is client-side auth; hashes are visible in source. Use only for low-security needs.
+// Simple per-user login with logging to Google Sheets via Netlify Function
 
 (async function () {
   // -------- CONFIG --------
-  // Map of username => sha256(password)
-  // Generate hashes offline and paste here (lowercase hex).
   const USERS = {
-    coach: "4387e5d3966fc436532792769763cd1ab7cccd6464d4c01c2b91261894e96b77", // sha256('Effort')
-    player: "8c15f1755ae9906da874d715609b4f6cba85f02970e6e72353bd8d5adbe9fb3f", // sha256('Honesty')
-    // add more...
+    coach: "Effort",
+    player: "Honesty",
+    guest: "test123",
+    // add more as needed
   };
 
-  const LOGIN_KEY = "egrfc_user_v2"; // localStorage key
-  const SERVER_LOG_ENDPOINT = "/.netlify/functions/log-login"; // Netlify function (optional)
+  const LOGIN_KEY = "egrfc_user_simple";
+  const SERVER_LOG_ENDPOINT = "/.netlify/functions/log-login"; // Netlify function
 
-  // Utility: SHA-256 hex
-  async function sha256Hex(text) {
-    const enc = new TextEncoder();
-    const data = enc.encode(text);
-    const buf = await crypto.subtle.digest("SHA-256", data);
-    return Array.from(new Uint8Array(buf))
-      .map((b) => b.toString(16).padStart(2, "0"))
-      .join("");
-  }
-
-  // Call GA via gtag if present
-  function sendClientGAEvent(username) {
-    try {
-      if (typeof gtag === "function") {
-        gtag("event", "login", {
-          method: "site-login",
-          username: username,
-        });
-      }
-    } catch (err) {
-      console.warn("gtag error", err);
-    }
-  }
-
-  // POST to server-side logging function (optional)
-  async function sendServerLog(username) {
+  // POST login attempt to server-side function
+  async function sendServerLog(username, success) {
     try {
       await fetch(SERVER_LOG_ENDPOINT, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           username: username,
+          success: success,
           timestamp: new Date().toISOString(),
           page: window.location.pathname,
         }),
@@ -59,24 +34,21 @@
   // Login success handler
   function setLoggedIn(username) {
     localStorage.setItem(LOGIN_KEY, username);
-    // remove lock and modal (if any)
     document.documentElement.classList.remove("site-locked");
     const modal = document.querySelector(".auth-modal");
     if (modal) modal.remove();
 
-    // analytics
-    sendClientGAEvent(username);
-    sendServerLog(username).catch(() => {});
+    sendServerLog(username, true);
   }
 
-  // If already logged in, skip
+  // Already logged in?
   const existing = localStorage.getItem(LOGIN_KEY);
   if (existing) {
     document.documentElement.classList.remove("site-locked");
     return;
   }
 
-  // Build a simple login modal (re-use or adapt from your earlier code)
+  // Build login modal
   function buildModal() {
     if (document.querySelector(".auth-modal")) return;
     const modal = document.createElement("div");
@@ -100,22 +72,24 @@
     const btn = modal.querySelector("#auth-submit");
     const err = modal.querySelector(".auth-error");
 
-    async function attempt() {
+    function attempt() {
       const username = (userEl.value || "").trim();
       const password = passEl.value || "";
+
       if (!username || !password) {
         err.textContent = "Enter both username and password";
         err.style.display = "block";
         return;
       }
-      const hash = await sha256Hex(password);
-      if (USERS[username] && USERS[username] === hash) {
+
+      if (USERS[username] && USERS[username] === password) {
         setLoggedIn(username);
       } else {
         err.textContent = "Invalid credentials";
         err.style.display = "block";
         passEl.value = "";
         passEl.focus();
+        sendServerLog(username || "(empty)", false);
       }
     }
 
@@ -126,22 +100,6 @@
     userEl.focus();
   }
 
-  // show modal and keep page locked (if you use the site-locked technique)
   document.documentElement.classList.add("site-locked");
   buildModal();
-
-  function logLogin(username) {
-    fetch("/.netlify/functions/log-login", {
-      method: "POST",
-      body: JSON.stringify({ username, page: window.location.pathname }),
-      headers: { "Content-Type": "application/json" },
-    });
-  }
-
-  // Example usage after successful login
-  if (password === correctPassword) {
-    logLogin(username);
-    window.location.href = "home.html";
-  }
-  
 })();
