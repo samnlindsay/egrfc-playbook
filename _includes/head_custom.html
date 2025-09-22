@@ -10,4 +10,60 @@
     gtag('config', 'G-8ND2K6BT3E');
 </script>
 
+<!-- _includes/head_custom.html: add at top -->
+<!-- immediately lock the site to avoid flash -->
+<script>document.documentElement.classList.add('site-locked');</script>
+
+<!-- minimal inline styles to hide content while locked and style the modal -->
+<style>
+    /* hide all page content when locked except the auth modal */
+    html.site-locked body>*:not(.auth-modal) {
+        visibility: hidden !important;
+    }
+
+    /* simple modal base */
+    .auth-modal {
+        visibility: visible !important;
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 99999;
+        background: rgba(0, 0, 0, 0.6);
+        font-family: Arial, sans-serif;
+    }
+
+    .auth-modal .card {
+        background: white;
+        padding: 1.25rem;
+        border-radius: 8px;
+        width: min(420px, 90%);
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+    }
+
+    .auth-modal input[type="password"] {
+        width: 100%;
+        padding: 0.5rem;
+        margin-top: 0.5rem;
+    }
+
+    .auth-modal button {
+        margin-top: 0.75rem;
+        padding: 0.5rem 0.75rem;
+    }
+
+    .auth-error {
+        color: #b00020;
+        margin-top: 0.5rem;
+        display: none;
+    }
+
+    /* make sure header/footer hidden as well by visibility rule above */
+</style>
+
+<!-- load the auth script (deferred) -->
+<script src="{{ '/assets/js/auth.js' | relative_url }}" defer></script>
+
+
 {% endunless %}
