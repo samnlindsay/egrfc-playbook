@@ -160,6 +160,10 @@
         </div>
         <div class="auth-error" style="color:#b00020;display:none;margin-top:.5rem">Invalid credentials</div>
         </form>
+
+        <div class="mt-3" style="font-size: .9rem; color: #666;">
+          If you require login details, please contact the coaching team.
+        </div>
       </div>`;
     document.body.appendChild(modal);
 
