@@ -97,6 +97,7 @@
     wbramwell: "wb89",
     wlongstaff: "wl90",
     wroberts: "wr91",
+    cleggat: "cl92",
     // add more as needed
   };
 

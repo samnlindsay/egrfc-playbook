@@ -12,7 +12,7 @@ The playbook is divided into several sections, each focusing on different aspect
   
 <div class="home-toc">
 <ol>
-  {% assign sorted_pages = site.pages | sort: "url" %}
+  {% assign sorted_pages = site.pages | sort: "nav_order" %}
   {% for page in sorted_pages %}
     {% assign segments = page.url | split: '/' %}
     {% assign depth = segments | size %}
