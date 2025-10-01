@@ -20,6 +20,8 @@ Lineout defence is harder than attack — you react without knowing the plan. Su
 <details markdown="1" style="padding-left: 1em;">
 <summary style="padding-left:0"><b>Static vs Dynamic defences</b></summary>
 
+#### Static 
+{: .no_toc}
 In recent years, we’ve mainly used 3 static setups:
 
 - **"2 Towers"**: 2 pods ready to contest
@@ -28,6 +30,8 @@ In recent years, we’ve mainly used 3 static setups:
   
 These are predictable and easy to counter. Opponents often use 5-man lineouts or quick throws to avoid or beat them (e.g. to the back, off the top, or with a shift drive).
 
+#### Dynamic
+{: .no_toc}
 Stronger defence involves coordinated, reactive movement by multiple players. This demands training, quick decisions, and clear understanding of roles:
 
 - **"Mirror"** - each player marks their opposite man, mirroring their movements in anticipation of having a jumper ready to compete in the air

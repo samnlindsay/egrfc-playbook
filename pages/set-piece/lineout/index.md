@@ -44,7 +44,7 @@ Our default is a **5-man "Squeeze"** (1-3-1 formation) with a quick option ("Ban
 
 If the defence is putting us under pressure, we can vary the formation, the calls, or the numbers.<br style="clear: both;"/>
 
-## How a lineout is formed
+<!-- ## How a lineout is formed
 We pre-call lineouts to avoid tipping off the defence and ensure everyone knows the plan. The lineout caller and the fly half decide between them and organise everyone else.
 
 <img src="{{ '/assets/images/lineout/lineout-flowchart.png' | relative_url }}" style="width: 100%; height: auto;"/>
@@ -63,4 +63,6 @@ In the huddle, the caller gives the formation, call, and play. Once in position,
 
 Every lineout includes a **"Bang"** option — a quick throw to a pre-set pod (middle or back), if needed.
 
-If **"Bang"** isn’t viable, the caller can say **"Cancel"**, give a new call, allow players to reset, then use **"Set"**. 
+If **"Bang"** isn’t viable, the caller can say **"Cancel"**, give a new call, allow players to reset, then use **"Set"**.  -->
+
+For specific examples of the most common calls trained so far, see [**Examples**](attack/#examples).
