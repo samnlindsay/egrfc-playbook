@@ -20,6 +20,8 @@ Backs moves are grouped into 3 main categories, based on the position of the "pl
 - **12** - European countries
 - **13** - Rest of the world
 
+For other moves off scrum/maul, see [Plays off scrum](../../scrum#plays-off-scrum-or-maul).
+
 --- 
 
 # Playmaker at **10**
