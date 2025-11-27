@@ -79,7 +79,13 @@ For quick reference, here are the main formations and calls repped in training.
 <img src="{{ '/assets/images/lineout/7man-Squeeze.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
 <details>
-<summary><b>Options</b></summary>
+<summary><b>Simple options</b></summary>
 <img src="{{ '/assets/images/lineout/7man-Squeeze-options.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
+</details>
+
+<details>
+<summary><b>Dummy/decoy options</b></summary>
+<img src="{{ '/assets/images/lineout/7man-Squeeze-dummy-options.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
 </details>
