@@ -99,6 +99,8 @@
     wroberts: "wr91",
     cleggat: "cl92",
     jandrews: "ja93",
+    tfontaine: "tf94",
+    oroberts: "or95",
     // add more as needed
   };
 
