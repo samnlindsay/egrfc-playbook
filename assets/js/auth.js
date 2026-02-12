@@ -102,6 +102,7 @@
     tfontaine: "tf94",
     oroberts: "or95",
     acarstens: "ac96",
+    dharding: "dh97"
     // add more as needed
   };
 
