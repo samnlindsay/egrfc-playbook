@@ -103,6 +103,7 @@
     oroberts: "or95",
     acarstens: "ac96",
     dharding: "dh97"
+    jsketcher: "js98",
     // add more as needed
   };
 
