@@ -23,7 +23,7 @@ The playbook is divided into several sections, each focusing on different aspect
 
         {% assign parent_url = page.url %}
         {% assign children = site.pages | where_exp: "p", "p.url != parent_url and p.url contains parent_url" %}
-        {% assign child_pages = children | sort: "url" %}
+        {% assign child_pages = children | sort: "nav_order" %}
         {% assign shown = false %}
 
         <ul>
@@ -37,7 +37,7 @@ The playbook is divided into several sections, each focusing on different aspect
 
               {% assign grandparent_url = child.url %}
               {% assign grand_children = site.pages | where_exp: "c", "c.url != grandparent_url and c.url contains grandparent_url" %}
-              {% assign grandchild_pages = grand_children | sort: "url" %}
+              {% assign grandchild_pages = grand_children | sort: "nav_order" %}
 
               {% if grandchild_pages.size > 0 %}
                 <ul>
