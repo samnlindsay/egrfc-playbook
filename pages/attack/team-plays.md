@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Integrated team plays
-permalink: /attack/integrated-team-plays/
+title: Team plays
+permalink: /attack/team-plays/
 parent: Attack
 nav_order: 13
 ---
 
-# Integrated team plays
+# Team Plays
 {: .no_toc }
 
 ## Table of Contents
@@ -21,17 +21,15 @@ This section contains plays that involve both forwards and backs working togethe
 
 ---
 
-## Single-phase plays
+# Single-phase plays
 
-Single-phase set plays that combine forward power and back skills to create immediate attacking opportunities.
-
-# Blackjack
+## Blackjack
 
 A pre-planned move to quickly shift the point of attack away from an edge while the defence reorganises. Midfield pod of 3 forwards stand in a line, offering all 3 as passing options for the playmaker and ready to generate quick ball for the next pod.
 
 <img src="{{ '/assets/images/attack/blackjack.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
 
-# Poker
+## Poker
 
 A pre-planned move out the back of a queen pod, designed to stretch the defence and give the playmaker 3 passing options:
 1. A switch to a hard running forward cutting back inside
@@ -44,9 +42,9 @@ All three options can potentially break the gain line (as can the playmaker runn
 
 ---
 
-## Multi-phase plays
+# Multi-phase plays
 
-# Fanta
+## Fanta
 
 Using the 1-3-3-1 pod structure to create multiple phases of play from edge to edge, focusing on challenging C/D defenders.
 
@@ -65,7 +63,7 @@ King take-off back infield. 10 feeds 15 playing to the edge behind a decoy line 
 King take-off to a second pod off 10 (similar to phase 1)
 <img src="{{ '/assets/images/attack/fanta4.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
 
-# Cola
+## Cola
 
 Four phases off a hot 4-man lineout, playing to the opposite edge and back, making use of decoy runners.
 
