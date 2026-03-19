@@ -104,6 +104,7 @@
     acarstens: "ac96",
     dharding: "dh97",
     jsketcher: "js98",
+    smusgrave: "sm99",
     // add more as needed
   };
 
