@@ -111,6 +111,14 @@ The same as Scotland but wider in the back line, with 12 as the playmaker
 
 <img src="{{ '/assets/images/attack/spain.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
 
+## 🇵🇹 Portugal &nbsp; <span class="badge-new">NEW</span>
+
+- 9 passes to 12, with 13 running hard on his outside and 10 behind the 12 completing the 3-man pod
+- The blind side winger initially tucks in behind 10, staying deep but running wide as 12 takes the ball
+- 12 has options to hit 13 on a hard line, or pull back to 10, but instead gives a miss pass to the blind side winger
+
+<img src="{{ '/assets/images/attack/portugal.png' | relative_url }}" style="width:100%; max-width: 600px; height: auto;"/>
+
 ---
 
 # Playmaker at **13**
