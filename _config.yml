@@ -6,7 +6,7 @@ favicon_ico: "/assets/images/favicon.ico"
 
 # These two lines need to change:
 baseurl: ""  # Previously "/egrfc-playbook"
-url: "https://egrfcplaybook.uk"  # Previously samnlindsay.github.io
+url: "https://eg-playbook.uk"  # Previously samnlindsay.github.io
 
 # Enable relative links
 relative_links:
