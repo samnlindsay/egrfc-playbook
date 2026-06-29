@@ -31,7 +31,7 @@
     estrickley: "es23",
     egosling: "eg24",
     fmitchell: "fm25",
-    garthur: "ga26",
+    gtaylor: "gt26",
     gbeet: "gb27",
     gjones: "gj28",
     gnaylor: "gn29",
