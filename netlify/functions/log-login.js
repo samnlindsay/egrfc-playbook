@@ -10,7 +10,7 @@ exports.handler = async function (event, context) {
   if (event.httpMethod !== "POST") {
     return { statusCode: 405, body: "Method Not Allowed" };
   }
-
+  
   let data;
   try {
     data = JSON.parse(event.body);
