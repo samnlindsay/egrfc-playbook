@@ -20,11 +20,11 @@ A summary of the key words and phrases used in attacking play.
 ### [Pods](../forwards/#pod-structure--new)
 
 | :-------- | :---------- |
-|  **Lead** (1) | The expected ball carrier at the front of the pod, closest to the 9/10 |
-|  **Link** (2) | The outside tip option |
-|  **Pull** (3) | The "out the back" option |
-|  **Release** | Pass from the forwards to a supporting back |
+|  **Lead** | The expected ball carrier at the front of the pod, closest to the 9/10 |
+|  **Link** | The outside tip option |
+|  **Pull** | The "out the back" option |
 |  **Take off** | Pass behind the pod to a supporting back |
+| **Cleaner** | The third forward in a pod, tasked with securing the ruck after contact |
 
 | :-------- | :---------- |
 |  [**Joker**](../forwards/#joker---pick-and-go--renamed) | A pick and go (x3) |

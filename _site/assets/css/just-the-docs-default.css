@@ -7788,38 +7788,23 @@ blockquote.blue-title > p:last-child {
 }
 
 /* Import Google Fonts explicitly */
-h1 {
-  font-size: 3rem !important;
-  margin-top: 1.75rem !important;
-  font-family: "PT Sans Narrow", sans-serif !important;
+.auth-modal .card {
+  font-family: "Lato", sans-serif;
+  width: max-content;
 }
 
-h2 {
-  font-size: 2.5rem !important;
-  margin-top: 1.5rem !important;
-  font-family: "PT Sans Narrow", sans-serif !important;
+.auth-modal h3 {
+  font-family: "PT Sans Narrow", sans-serif;
 }
 
-h3 {
-  font-size: 2rem !important;
-  margin-top: 1.25rem !important;
-  font-family: "PT Sans Narrow", sans-serif !important;
-}
-
-h4 {
-  font-size: 1.5rem !important;
-  font-family: "PT Sans Narrow", sans-serif !important;
-}
-
-body {
-  font-family: "Lato", sans-serif !important;
-}
-
-/* Ensure strong/em also inherit fonts correctly */
-strong,
-em,
-blockquote {
-  font-family: inherit;
+.auth-modal input {
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 @media only screen and (max-width: 768px) {
@@ -7938,13 +7923,6 @@ body {
   font-family: "Lato", sans-serif !important;
 }
 
-/* Ensure strong/em also inherit fonts correctly */
-strong,
-em,
-blockquote {
-  font-family: inherit;
-}
-
 @media only screen and (max-width: 768px) {
   h1,
   h2,
@@ -8005,24 +7983,6 @@ th, td {
 
 .attack, .defence {
   padding-bottom: 1px !important;
-}
-
-details {
-  margin-block-start: 1.2em;
-  margin-block-end: 1.2em;
-  background: #e5e4e7;
-  overflow: hidden;
-  /* Borders & Colors, Interaction: */
-  border-style: solid;
-  border-width: var(--border-width);
-  border-radius: 0.5em;
-}
-
-summary {
-  color: #202946;
-  padding-left: 0.4em;
-  font-size: 1.4em;
-  font-family: "PT Sans Narrow", sans-serif !important;
 }
 
 .home-toc ol {

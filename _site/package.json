@@ -1,0 +1,26 @@
+{
+  "name": "egrfc-playbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samnlindsay/egrfc-playbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/samnlindsay/egrfc-playbook/issues"
+  },
+  "homepage": "https://github.com/samnlindsay/egrfc-playbook#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "google-spreadsheet": "^5.0.2",
+    "googleapis": "^160.0.0"
+  }
+}

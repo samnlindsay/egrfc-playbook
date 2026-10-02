@@ -17,36 +17,14 @@ nav_order: 11
 
 ## Pod structure &nbsp; <span class="badge-new">NEW</span>
 
-Each forward pod consists of 3 players in an L shape:
+Each pod consists of 3 forwards and a back, with 3 potential ball carriers in an L shape:
 
 - **"Lead"** looks to take the ball off 9 or 10 and carry
 - **"Link"** is close on his outside to support the carry or take a flat tip pass
 - **"Pull"** sits behind "Lead" tracking across to support either ball carrier or to take a pull back pass
-
-As last season, these 3 options can be quickly communicated as **"1"** (carry), **"2"** (tip) and **"3"** (release)
+- **"Cleaner"** stands off, inside the pod, ready to be first to support the ball carrier in the next ruck.
 
 <img src="{{ '/assets/images/attack/pod.png' | relative_url }}" style="width: 80%; height: auto;"/>
-
-### Backs joining pods
-{: .no_toc}
-
-<div style="float: left; width: 50%; margin-right: 20px;">
-    <img src="{{ '/assets/images/attack/2pod.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</div>
-
-In the 3-3-2 structure, one pod only has two forwards, so a back needs to fill the **"Pull"** role, supporting the forward ball carriers, or being released down the wing.
-
-<br style="clear: both;" />
-
-<div style="float: left; width: 50%; margin-right: 20px;">
-    <img src="{{ '/assets/images/attack/takeoff.png' | relative_url }}" style="width: 100%; height: auto;"/>
-</div>
-
-There is no longer a "Captain of Play" expected behind every pod, allowing the backs more freedom. 
-
-A back can still step into that role and call **"Take off"** for the ball to be passed behind the advancing pod for the backs to go wide.
-
-<br style="clear: both;" />
 
 ## Pod plays
 
