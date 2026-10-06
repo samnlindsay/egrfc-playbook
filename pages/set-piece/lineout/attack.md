@@ -17,42 +17,67 @@ nav_order: 311
 
 This section covers our setup, how we call the throw and any movements in the lineout, and then how we play the ball away from the lineout.
 
-# Formations &nbsp; <span class="badge-new">NEW</span>
+# Overview
 
-<img src="{{ '/assets/images/lineout/formations.png' | relative_url }}" style="width: 100%; height: auto;"/>
+Timing is crucial to everything we do in our attacking lineout. We huddle as a group to communicate the call as soon as possible, and then everyone gets into position before the hooker is ready and the last man (the "trigger") joins the line.
 
-We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. Each of these can be set up with many different formations (e.g. 1-3-2-1 or 1-1-3) so we need to keep things simple, but flexible.
-
-| :----------- | :---------------- |
-| **Squeeze** | A pre-set middle pod[^1] is ready for a quick "Bang" or to draw in the defence before moving. _**Default setup**_ |
-| **Spread** | Evenly spaced, keeping the defence guessing so we can attack weak spots or win with speed. |
-| **Split** | Pods at front and back create space in the middle for movement or quick delivery. |
-
-[^1]: Or back pod in the case of the 4-man version.
-
----
-
-# Calls &nbsp; <span class="badge-new">NEW</span>
-
-We divide the lineout into 3 zones (**1**, **2**, **3**), each with a jumper, or **0** for the very front with no jump (i.e. "Matlow").
-
-<img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
-
-For more complex movements, we can chain together multiple calls -- e.g. **1 2** (dummy jump at 1, before jumping at 2). The specific movements will depend on the initial formation and can be workshopped in training. Once the basic calls are mastered, we can add further modifiers to include more complex movements.
-
-## Calling process
-
-{: .no_toc }
+<img src="{{ '/assets/images/lineout/callingprocess.png' | relative_url }}" style="width: 100%; height: auto;"/>
 
 <div style="float: left; width: 70%; margin-right: 10px;">
     <img src="{{ '/assets/images/lineout/call-process.png' | relative_url }}" style="width: 100%; height: auto;"/>
 </div>
 
-In a huddle, the caller gives the formation, call, and play. Once in position, they trigger the move with **"Set"**.
+In a huddle, the caller gives the formation, call, and play. Unless the trigger/caller say otherwise, this is the plan that will be executed immediately the trigger joins the line.
 
-Every lineout includes a **"Bang"** option — a quick throw to a pre-set pod (middle or back), if needed.
+Every lineout includes a **"Bang"** option — a quick throw to a pre-set pod (middle or front).
 
-If **"Bang"** isn’t viable, the caller can say **"Cancel"**, give a new call and then proceed as normal.
+If neither option is viable, the caller can say **"Cancel"**, give a new call and then proceed as normal.
+
+If something goes wrong during the lineout, someone at the front should always face the hooker offering a bailout option on the 5m line.
+
+# Formations &nbsp; <span class="badge-new">NEW</span>
+
+We run a 5-man lineout by default, but also 7-man and 4-man lineout variations. Each of these can be set up with many different formations (e.g. 1-3-2-1 or 1-1-3) so we need to keep things simple, but flexible.
+
+<div style="float: right; width: 75%; margin-left: 10px;">
+    <img src="{{ '/assets/images/lineout/squeeze.png' | relative_url }}" style="width: 100%; height: auto;"/>
+</div>
+
+## Squeeze
+
+Our default formation is the **Squeeze**, where a pre-set middle pod is ready for a quick "Bang" or to focus the defence on the middle before moving.
+
+<br style="clear: both;" />
+
+<div style="float: right; width: 75%; margin-left: 10px;">
+    <img src="{{ '/assets/images/lineout/split.png' | relative_url }}" style="width: 100%; height: auto;"/>
+</div>
+    
+## Split
+
+The **Split** formation changes the picture for the defence, instead leaving lots of space in the middle to move into, giving us the easy out of a "Bang" at the front.
+
+<br style="clear: both;" />
+
+<div style="float: right; width: 75%; margin-left: 10px;">
+    <img src="{{ '/assets/images/lineout/spread.png' | relative_url }}" style="width: 100%; height: auto;"/>
+</div>
+
+## Spread
+
+The **Spread** formation changes the picture again, giving the opposition no indication of where to defend, allowing us to exploit weak spots or win with speed.
+
+
+---
+
+# Calls &nbsp; <span class="badge-new">NEW</span>
+
+We divide the lineout into 3 zones (**1**, **2**, **3**), or **0** for the very front with no jump (i.e. "Matlow").
+
+<img src="{{ '/assets/images/lineout/target-with-steps.png' | relative_url }}" style="width: 100%; height: auto;"/>
+
+For more complex movements, we can chain together multiple calls -- e.g. **1 2** (dummy jump at 1, before jumping at 2). The specific movements will depend on the initial formation and can be workshopped in training. Once the basic calls are mastered, we can add further modifiers to include more complex movements.
+
 
 <!-- ## Call examples
 
