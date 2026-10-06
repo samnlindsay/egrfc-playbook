@@ -15,30 +15,57 @@ section: Defence
 - TOC
 {:toc}
 
+## Defensive Principles
 
-## Defensive line
+{: .blue-title .fs-4 .lh-tight}
+> **Regain Possession**
+>
+> - Dominant first contact
+> - Tackler roll away and go to A
+> - Inside man (2nd defender) go at the ball
 
-Priority is to secure the A/B/C positions. The 9 can sweep behind the ruck to organise, while the open side winger joins as the 13th defender, with the other winger and 15 dropping deep.
+{: .red-title .fs-4 .lh-tight}
+> **Opposition Ruck Tempo**
+>
+> - Dominant first contact
+> - Connected defensive line
+> - Counter ruck
+> - Delay hands on
+
+{: .green-title .fs-4 .lh-tight}
+> **Opposition Ruck Commitment**
+>
+> - Isolate ball carrier
+> - Jackal
+> - Discipline
+
+**12 is the D line leader**
+
+## Defensive Line
+
+Priority is to secure the A/B/C positions. The 9 can sweep behind the ruck to organise, while the 10 and 15 drop deep to cover the backfield.
 
 <img src="{{ '/assets/images/defensiveline.png' | relative_url }}" style="width:100%; height: auto;"/>
 
-Our defensive will be speed off the line and communicated from the inside man.
+## Key Terms
 
 | :-------- | :---------- |
-| Starting Position | inside your opposite player |
-| A-B-C | **A** is Post, **B** is the link man and **C** is inside first defender |
+| A-B-C | **A** is Post, **B** is the link man and **C** is inside first receiver |
 | Check, Move | Look across the defensive line and go forward |
 | Push | Inside man has the player and you can focus on next player outside of the ball |
 | Concede | Drift defence where we are short of players and concede ground until numbers are on our side |
+| Load, Smash | Getting set and off the line together |
+| Wall | Drift defence |
+| Hammer | Blitz defence |
 
-## Tackle Language
+## Tackle Focus
 
 | :-------- | :---------- |
 | Approach | Adjust your position and approach to increase the opportunity of a successful tackle |
 | Contact | Make a positive initial contact with opponent ensuring transfer throughout the tackle. |
 | Decision | Get Back-in-Game or attack breakdown. |
 
-## Breakdown Language
+## Breakdown Focus
 
 | :-------- | :---------- |
 | Look | Understand what has happened in the tackle around you, to determine your next action |
